@@ -1,11 +1,11 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://byuistats.github.io/CSE250-Course"
-# https:byuistats.github.io/CSE250-Course
+baseURL = "https://byuistats.github.io/DS250-Cannon"
+# https:byuistats.github.io/DS250-Cannon
 # theme
 theme = "Dot"
 # site title
-title = "CSE250"
+title = "DS250"
 # disable language
 disableLanguages = [true]
 # google analytics
