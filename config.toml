@@ -1,0 +1,106 @@
+################################# Default configuration ###################
+# provide your domain here
+baseURL = "https://byuistats.github.io/CSE250-Course"
+# https:byuistats.github.io/CSE250-Course
+# theme
+theme = "Dot"
+# site title
+title = "CSE250"
+# disable language
+disableLanguages = [true]
+# google analytics
+googleAnalytics = "UA-132356198-4" 
+publishDir = 'docs'
+# unsafe html
+[markup.goldmark.renderer]
+unsafe= true
+
+################################# navigation ################################
+
+[[menu.main]]
+name = "Projects"
+url = "projects"
+weight = 1
+
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 2
+
+[[menu.main]]
+name = "Materials"
+url = "course-materials"
+weight = 3
+
+# Dropdown menu
+[[menu.main]]
+weight = 3
+name = "Navigate"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Navigate"
+  name = "Slides"
+  url = "slides"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Navigate"
+  name = "Syllabus"
+  url = "course-materials/syllabus/"
+  weight = 4
+
+  [[menu.main]]
+  parent = "Navigate"
+  name = "FAQ"
+  url = "faq"
+  weight = 5
+
+############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = ""
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = ""
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#02007e"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "roboto" # Choose font family from : https://fonts.google.com/
+
+
+
+############################## social links ##############################
+ 
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "https://github.com/byuidatascience"
+  
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/groups/13537407/"
+
+################################ English Language ######################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+weight = 1
+home = "Home"
+copyright = "J. Hathaway and BYU-I ©"
+
+# banner
+[Languages.en.params.banner]
+title = "CSE 250: Data Science Programming"
+subtitle = "Using pandas, Altiar, scikit-learn, and NumPy to program with data"
+bg_image = "images/banner.png"
+placeholder = "Have a question? Just ask here or enter terms"
+
+
+
