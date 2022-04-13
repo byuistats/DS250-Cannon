@@ -1,5 +1,5 @@
 ---
-title: "CSE 250 Syllabus"
+title: "DS 250 Syllabus"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-15T10:42:26+06:00
 weight: 1
@@ -10,6 +10,14 @@ keywords: [""]
 
 > Most people would sooner die than think, and most of them do.    
 > [-Bertrand Russell-](https://www.goodreads.com/work/quotes/1200871-the-abc-of-relativity)
+
+### Contact Information
+
+Instructor Name:  Paul Cannon
+Email:  cannonp@byui.edu
+Phone: (208) 496-7565
+Student hours:  Ricks 216, Mon/Wed 2:00-4:30
+Calendly:  https://calendly.com/paulccannon
 
 ### Overview
 
