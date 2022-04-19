@@ -3,15 +3,15 @@ title: "Day 1: Welcome"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-15T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
-## Welcome to CSE 250!
+## Welcome to DS 250!
 
-- Teacher: Sister Allen (Larson)
-- TA: Asher Hanson
+- Teacher: Paul Cannon
+- TA: Aj Averett
 
 <br>
 
@@ -23,12 +23,6 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 
 <br>
 
-## Let's take a fieldtrip. 
-
-- Mon/Wed class: Meet in the grass by Ricks parking lot (east side).
-- Tues/Thurs class: Meet in front of the Austin (east side).
-
-<br>
 
 ## Quadrant Activity
 
@@ -71,7 +65,7 @@ The readings will also mention two VS Code extensions you need to install.
 
 #### A note on Jupyter Notebooks vs. Interactive Python Window
 
-The textbook will show you how to use VS Code's interactive python windows. **This semester, we are going to try using Jupyter Notebooks instead.** We will discuss this in class.
+The textbook will show you how to use VS Code's interactive python windows. **Or Jupyter Notebooks instead.**
 
 
 
@@ -143,7 +137,7 @@ Brother Hathaway's definition:
 
 >A blend of programmer, statistician, and communicator that burns with curiosity.
 
-My definiton for CSE 250:
+My definiton for DS 250:
 
 >Someone who can extract insights from data and then communicate those insights with clarity.
 
