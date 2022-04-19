@@ -31,13 +31,10 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 # https://www2.byui.edu/Presentations/transcripts/devotionals/2009_09_15_clark.htm
 -------------------->
 
-1. Introduce yourself and learn the names of your group members.
+1. Introduce yourself and learn the names/majors/origin story of your group members.
 1. Make a plan to get help this semester. If you need a friend in class, how will you contact each other? Some ideas: Slack, I-Learn, emails, etc.
-1. For each quadrant, think of a person (real or fictional) whose leadership represents that quadrant.
-
-<br>
-
-## Data Activity
+1. If you were independently wealthy, what would you be doing right now?  Would you change majors?
+1. Why are you here?
 
 <br>
 
