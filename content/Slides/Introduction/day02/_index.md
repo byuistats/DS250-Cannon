@@ -3,7 +3,7 @@ title: "Day 2: Welcome and Project 0"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-17T10:42:26+06:00
 weight: 1
-draft: false
+draft: true
 # search related keywords
 keywords: [""]
 ---
