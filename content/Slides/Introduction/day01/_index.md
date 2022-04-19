@@ -62,7 +62,7 @@ The readings will also mention two VS Code extensions you need to install.
 
 #### A note on Jupyter Notebooks vs. Interactive Python Window
 
-The textbook will show you how to use VS Code's interactive python windows. **Or Jupyter Notebooks instead.**
+The textbook will show you how to use VS Code's interactive python windows. **Feel free to use Jupyter Notebooks.**
 
 
 
