@@ -1,0 +1,310 @@
+---
+title: "Day 1: Welcome"
+date: 2020-05-01T11:02:05+06:00
+lastmod: 2020-09-15T10:42:26+06:00
+weight: 2
+draft: true
+# search related keywords
+keywords: [""]
+---
+
+## Welcome to CSE 250!
+
+- Teacher: Sister Allen (Larson)
+- TA: Asher Hanson
+
+<br>
+
+## Syllabus Questions?
+
+#### Are we all on the Slack channel?
+
+Follow the Slack invitation that is waiting in your student email. If you don't see an invite, you can join through [this link](https://join.slack.com/t/byuidss/signup) and then ask @Asher to add you to the class channel. (Make sure you tell him what class you're in!!)
+
+<br>
+
+## Let's take a fieldtrip. 
+
+- Mon/Wed class: Meet in the grass by Ricks parking lot (east side).
+- Tues/Thurs class: Meet in front of the Austin (east side).
+
+<br>
+
+## Quadrant Activity
+
+<!------------------
+# https://www2.byui.edu/Presentations/Transcripts/EducationWeek/2009_07_30_Clark.htm
+# https://www2.byui.edu/Presentations/transcripts/devotionals/2009_09_15_clark.htm
+-------------------->
+
+1. Introduce yourself and learn the names of your group members.
+1. Make a plan to get help this semester. If you need a friend in class, how will you contact each other? Some ideas: Slack, I-Learn, emails, etc.
+1. For each quadrant, think of a person (real or fictional) whose leadership represents that quadrant.
+
+<br>
+
+## Data Activity
+
+<br>
+
+***
+
+<br>
+
+## Getting started on Project 0
+
+#### Before next class, you should:
+
+1. Download [Visual Studio Code](https://code.visualstudio.com/)
+1. Download [Python](https://www.python.org/downloads/)
+1. Read the Project 0 instructions
+1. Install the Python packages and VS Code extensions you need
+1. Complete the "Methods Checkpoint" quiz
+
+#### Installing Packages and Extensions
+
+Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](../../../course-materials/tools/python-for-data-science/).
+
+The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altiar`, `altair-saver`, `numpy`, and `jupyter`.
+
+The readings will also mention two VS Code extensions you need to install.
+
+#### A note on Jupyter Notebooks vs. Interactive Python Window
+
+The textbook will show you how to use VS Code's interactive python windows. **This semester, we are going to try using Jupyter Notebooks instead.** We will discuss this in class.
+
+
+
+
+<!---------------------------------
+#### Setting up your `py` script
+
+Create a new file in VS Code with a `.py` file extension. This is your Python script.
+
+A good data science `.py` script will have packages and data loaded at the top. Usually you have a few short commented sentences that describe the script purpose. An example is below.
+
+   ```python
+   # %%
+   # import pandas, altair, numpy
+   import pandas as pd
+   import altair as alt
+   import numpy as np
+
+   # %%
+   # load data
+   url = 'https://github.com/byuidatascience/data4soils/raw/master/data-raw/cfbp_handgrenade/cfbp_handgrenade.csv'
+   dat = pd.read_csv(url)
+   ```
+If you installed the `jupyter` package, then your Python interactive window should work. ([Section 1.4.2.2](https://byuidatascience.github.io/python4ds/introduction.html#visual-studio-code-vs-code)) This means that when you type `#%%` at the top of your code, you should see a little button pop up that says "run cell". This will run your Python code in an interactive window (on the right side of VS Code) instead of in the terminal (at the bottom of VS Code).
+   
+Your code for the introduction project will come straight from the reading material. If you have the `pandas` and `altair` packages, you should be able to make the first chart in [P4DS section 3.2.2](https://byuidatascience.github.io/python4ds/data-visualisation.html#creating-an-altair-plot). 
+
+Note that you must add a line of code that says `chart` in order to print out the Altair image you created.
+--------------------------------------->
+
+
+
+
+<!-----------------------------------------
+
+## Welcome to CSE 250!
+
+{{< faq "Introduction to Sister Larson">}}
+
+## My family
+
+![](crazy_family.jpg)
+
+<br>
+
+## Education and Employment
+
+- Undergraduate in Applied Mathematics at BYU-Idaho (2015)
+- Masters degree in Statistics at BYU (2018)
+- Biostatistician at Myriad Genetics doing cancer research.
+- Then back to BYU-Idaho!
+
+<br>
+
+## My interests
+
+- Math, data, and teaching
+- Reading
+- Stained glass windows
+- Musicals
+- Hiking and camping
+
+{{</ faq >}}
+
+
+{{< faq "What is a data scientist?">}}
+
+Brother Hathaway's definition:
+
+>A blend of programmer, statistician, and communicator that burns with curiosity.
+
+My definiton for CSE 250:
+
+>Someone who can extract insights from data and then communicate those insights with clarity.
+
+![](ds_4venn.png)
+
+<br>
+
+**Learn more about the BYU-Idaho data science program [here](http://www.byui.edu/mathematics/data-science).**
+
+{{</ faq >}}
+
+
+{{< faq "What is data science programming?">}}
+
+__Data scientists write code as a means to an end, whereas software developers write code to build things.__  Data science is inherently different from software development in that data science is an analytic activity, whereas software development has much more in common with traditional engineering.  
+
+Data scientists tackle problems such as identifying fraudulent transactions, or predicting which employees are likely to leave a company.  Software developers can take the data scientists models and turn them into fully functioning systems with production-quality code.  Software developers tackle problems like getting an algorithm to run more efficiently, or building user interfaces. 
+
+{{</ faq >}}
+
+{{< faq "Course Outcomes">}}
+
+Upon completing this course, you will be able to use data-driven programming in __Python__ to handle, format, and visualize data. We will introduce you to data wrangling techniques (__panadas__), analytical methods (__scikit-learn__), and the grammar of graphics (__Altair__). Specifically, as a successful learner, you will be able to:
+
+1. Use functions, data structures, and other programming constructs efficiently to process and find meaning in data.
+2. Programmatically load data from various types of data sources, including files, databases, and remote services.
+3. Use data manipulation libraries to perform straightforward analysis, produce charts, and prepare data for machine learning algorithms.
+4. Use machine learning libraries to discover insights, make predictions, and interpret the success of these algorithms.
+5. Collaborate and share your work with industry-leading tools.
+
+{{</ faq >}}
+
+{{< faq "BYU-Idaho Mission Statement">}}
+
+> Brigham Young University-Idaho was founded and is supported and guided by The Church of Jesus Christ of Latter-day Saints. Its mission is to develop disciples of Jesus Christ who are leaders in their homes, the Church, and their communities.
+
+- How would you describe a leader?
+- What makes a leader powerful?
+- What does a leader do with insights?
+
+[An example of a good leader.](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1.p1#p1 )
+
+[What (or who) is truth?](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14.6?lang=eng#p6#6)
+
+
+{{</ faq >}}
+
+<br>
+
+## Course Format and Grading
+
+{{< faq "How hard is this class going to be?">}}
+
+__The reality of CSE 250:__
+
+1. We have done all we can to ensure that this is a 2-credit course for the average student.  That means that we expect 4-6 hours outside of class for the average student to achieve an A.  You have to put in the time if you want to build skills.
+2. __The course is necessarily creative in nature.__ That fact usually makes it feel more challenging. We will be asking you to learn to write _creative_ data science python code.
+4. __If you have any concerns, please talk with me!__
+
+{{</ faq >}}
+
+{{< faq "What is the structure of CSE 250?">}}
+
+The class uses 7 projects to teach data science programming in Python using [pandas](https://pandas.pydata.org/), [Altair](https://altair-viz.github.io/), [scikit-learn](https://scikit-learn.org/stable/), and [numpy](https://numpy.org/).
+
+- [Projects](../../../projects)
+- [Syllabus](../../../course-materials/syllabus)
+
+{{</ faq >}}
+
+
+{{< faq "How do I get the grade I want?">}}
+
+- [Specification Grading](../../../course-materials/syllabus/#spec)
+- [Grading structure](../../../course-materials/syllabus/#scale)
+- [Competency Elements](../../../course-materials/syllabus/#elements)
+
+<br>
+
+## Introduction Project
+------------------------------------------------------------>
+
+
+<!-------------------------------------------------------------------------
+{{< faq "What is the goal?">}}
+
+Completing the introduction project will set you up for success the rest of the semester. The workflow followed in the introduction project (loading packages, writing code, saving images, compiling a final report) will be the same for every other project . __If you have questions about this project, you need to seek help.__
+
+{{</ faq >}}
+
+{{< faq "What exactly do I need to submit?">}}
+
+Make sure you carefully read the [project instructions](../../../projects/introduction/).
+
+You will submit a single `.pdf` file to I-Learn. This pdf file should contain an project summary, your answers to the grand questions (including the plot you saved with `altair_saver`), and an appendix where you copy and paste your commented Python code.
+
+{{</ faq >}}
+-------------------------------------------------------->
+
+
+
+<!-------------------------------------
+### Install Packages
+
+Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](../../../course-materials/python-for-data-science/).
+
+You need to install `pandas`, `altiar`, `numpy`, `scikit-learn`. 
+
+To get Python interactive window working, you also need to install the `jupyter` package.
+
+<br>
+
+### Setting up your `py` script
+
+Create a new file in VS Code with a `.py` file extension. This is your Python script.
+
+A good data science `.py` script will have packages and data loaded at the top. Usually you have a few short commented sentences that describe the script purpose. An example is below.
+
+   ```python
+   # %%
+   # import pandas, altair, numpy
+   import pandas as pd
+   import altair as alt
+   import numpy as np
+
+   # %%
+   # load data
+   url = 'https://github.com/byuidatascience/data4soils/raw/master/data-raw/cfbp_handgrenade/cfbp_handgrenade.csv'
+   dat = pd.read_csv(url)
+   ```
+If you installed the `jupyter` package, then your Python interactive window should work. ([Section 1.4.2.2](https://byuidatascience.github.io/python4ds/introduction.html#visual-studio-code-vs-code)) This means that when you type `#%%` at the top of your code, you should see a little button pop up that says "run cell". This will run your Python code in an interactive window (on the right side of VS Code) instead of in the terminal (at the bottom of VS Code).
+   
+Your code for the introduction project will come straight from the reading material. If you have the `pandas` and `altair` packages, you should be able to make the first chart in [P4DS section 3.2.2](https://byuidatascience.github.io/python4ds/data-visualisation.html#creating-an-altair-plot). 
+
+Note that you must add a line of code that says `chart` in order to print out the Altair image you created.
+
+{{</ faq >}}
+----------------------------------------------->
+
+
+<!---------------------------------
+### Save the Altair Plot
+
+Now that you've made the Altair chart from [P4DS section 3.2.2](https://byuidatascience.github.io/python4ds/data-visualisation.html#creating-an-altair-plot), the next step is to save the chart as a `.png` file. 
+
+To do this, you need to:
+  - install the `altair_saver` package
+  - install [NodeJS](https://nodejs.org/en/download/package-manager/)
+  - Run `npm install -g vega-lite vega-cli canvas` in your terminal/command prompt to install NodeJS dependencies
+
+The `altair_saver` package can be troublesome. For help:
+  - watch the video tutorial on [this page](../../../course-materials/altair/)
+  - Try reading through the [altair_saver documentation](https://github.com/altair-viz/altair_saver)
+
+### Final Report
+
+At this point you should have Python and VS Code working, created the Altair chart from the reading material, and saved the chart as a `.png` file.
+
+The final step is to put your code and image into a markdown report. (The template is in the [project instructions](../../../projects/introduction/).) The markdown report should be converted to a pdf before being submitted to I-Learn.
+
+Watch this [video tutorial](../../../course-materials/markdown/) to see an example of creating a final report.
+----------------------------------------->
+
+<br>
