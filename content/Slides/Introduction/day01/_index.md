@@ -19,7 +19,7 @@ keywords: [""]
 
 #### Are we all on the Slack channel?
 
-Follow the Slack invitation that is waiting in your student email. If you don't see an invite, you can join through [this link](https://join.slack.com/t/byuidss/signup) and then ask @Asher to add you to the class channel. (Make sure you tell him what class you're in!!)
+Follow the Slack invitation that is waiting in your student email. If you don't see an invite, you can join through [this link](https://join.slack.com/t/byuidss/signup) and then ask "@Aj Averett"  to add you to the class channel. 
 
 <br>
 
@@ -101,32 +101,15 @@ Note that you must add a line of code that says `chart` in order to print out th
 
 <!-----------------------------------------
 
-## Welcome to CSE 250!
+## Welcome to DS 250!
 
-{{< faq "Introduction to Sister Larson">}}
+{{< faq "Introduction to Brother Cannon">}}
 
-## My family
+## What do you want to know?
 
-![](crazy_family.jpg)
-
-<br>
-
-## Education and Employment
-
-- Undergraduate in Applied Mathematics at BYU-Idaho (2015)
-- Masters degree in Statistics at BYU (2018)
-- Biostatistician at Myriad Genetics doing cancer research.
-- Then back to BYU-Idaho!
 
 <br>
 
-## My interests
-
-- Math, data, and teaching
-- Reading
-- Stained glass windows
-- Musicals
-- Hiking and camping
 
 {{</ faq >}}
 
