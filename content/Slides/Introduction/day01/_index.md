@@ -54,7 +54,7 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 
 #### Installing Packages and Extensions
 
-Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](../../../course-materials/python-for-data-science/).
+Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/).
 
 The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altiar`, `altair-saver`, `numpy`, and `jupyter`.
 
