@@ -3,7 +3,7 @@ title: "Day 2: Star Wars and strings"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 3
-draft: false
+draft: true
 # search related keywords
 keywords: [""]
 ---
@@ -136,7 +136,7 @@ column_names_1 = (column_names_1
                      .replace("Which of the following Star Wars films have you seen? Please select all that apply.", "seen_")
                      .replace("Which character shot first?", "shot_first")
                      .str.replace(" ", "_")
-                     .str.replace("Œæ", "")
+                     .str.replace("Å’Ã¦", "")
                      .str.upper()
                      .fillna(method = "ffill"))
 print(column_names_1)
