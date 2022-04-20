@@ -52,6 +52,14 @@ __NodeJS Installation__
 ```
 npm install -g vega-lite vega-cli canvas
 ```
+##### M1 Mac Altair Solution
+
+1. Install selenium using the chromedriver package form [this link](https://chromedriver.chromium.org): [https://chromedriver.chromium.org](https://chromedriver.chromium.org). 
+2. Unzip the file and move the file to your chrome path `/usr/local/bin/chromedriver`
+
+See the [`selenium_fix.py`](selenium_fix.py) script for an example.
+
+_Note: This process will run a local server on your computer that opens the chart as an PNG file in chrome and downloads the file to the folder in which that VSCode file is located on your computer._
 
 #### 1.3 Saving a plot using `altair_saver`
 
