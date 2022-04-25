@@ -39,6 +39,9 @@ __Interview Question:__  What do you do to stay up with the current methods in d
 
 __Don't Say:__ _Nothing_
 
+{{</ faq >}}
+
+
 ## Project 1
 
 #### Import packages
@@ -198,7 +201,6 @@ __I want to;__
 1. keep all rows where `b` is less than 9 then
 1. find the min of `duck`
 
-{{</ faq >}}
 
 
 ----------------------------------------->
