@@ -10,12 +10,34 @@ keywords: [""]
 
 ## Welcome to Class!
 
-#### Gratitude Journal
 #### Announcements
 
 The [data science lab](https://byuidatascience.github.io/lab.html) opens this week!
 
 <br>
+
+## Completing Last Week
+
+1. __Markdown Preview Enhanced__ [Install](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) & [Manual](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
+2. __Stop saving files everywhere!__ Structure your folders. [Example 1](https://drivendata.github.io/cookiecutter-data-science/), [Example 2](https://github.com/BYUIDSS/blank_project_repository).
+3. __Finishing the Introduction Project__    
+    A. `data_science_programming > introduction`   
+    B. In  `introduction` I will save my `.py`, `.md`, and any `.png` files that are created with my `.py` file.   
+    C. Let's use the [project template](../../../template/cse250_project_template.md)     
+    D. Now lets use __Markdown Preview Enhanced__ to finish our introduction project.   
+    E. Now submit it in Canvas.   
+
+{{< faq "What was that data science community portion of our grade?" >}}
+
+__The [Syllabus](../../course-materials/syllabus) has this section which says;__
+
+> Data science community
+> 1. Attend data science society at least once during the semester.
+> 2. Register to get a regular email on topics related to data science.
+
+__Interview Question:__  What do you do to stay up with the current methods in data science?
+
+__Don't Say:__ _Nothing_
 
 ## Project 1
 
