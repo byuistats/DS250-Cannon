@@ -35,7 +35,7 @@ You will also need to install a package in Python before you answer the last que
 
 Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/).
 
-The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altiar`, `altair-saver`, `numpy`, `tabulate`, and `jupyter`.
+The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altair`, `altair-saver`, `numpy`, `tabulate`, and `jupyter`.
 
 The readings will also mention two VS Code extensions you need to install.
 
