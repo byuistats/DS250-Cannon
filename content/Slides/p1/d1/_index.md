@@ -23,7 +23,7 @@ The [data science lab](https://byuidatascience.github.io/lab/) opens this week!
 3. __Finishing the Introduction Project__    
     A. `data_science_programming > introduction`   
     B. In  `introduction` I will save my `.py`, `.md`, and any `.png` files that are created with my `.py` file.   
-    C. Let's use the [project template](../../../template/cse250_project_template.md)     
+    C. Let's use the [project template](https://byuistats.github.io/DS250-Cannon/template/cse250_project_template_clean.md)     
     D. Now lets use __Markdown Preview Enhanced__ to finish our introduction project.   
     E. Now submit it in Canvas.   
 
