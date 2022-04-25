@@ -241,7 +241,7 @@ pd.unique(dat.query('name == "John"').year).size
 
 ## Extra Practice
 
-{{< faq "CSE 250 workflow" >}}
+{{< faq "DS 250 workflow" >}}
 
 - You are going to hit `SHIFT + ENTER` thousands of times.
 - We don't usually source our scripts.
@@ -257,7 +257,7 @@ pd.unique(dat.query('name == "John"').year).size
 
 #### Create the folder and files to get prepared.
 
-- `cse250 > project_1 >`    
+- `DS250 > project_1 >`    
     - `names.py`   
     - `names.md`
     - `notes.md`
