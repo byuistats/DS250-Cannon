@@ -3,14 +3,14 @@ title: "Week 2-3: Project 1 - Names"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-15T10:42:26+06:00
 weight: 7
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
 <!------------------------------------------
 {{% notice info %}}
-  We are going to start learning the pandas package while we explore the names data for our project. [What is in a name?](../../projects/project-1/)
+  We are going to start learning the pandas package while we explore the names data for our project. [What is in a name?](../../projects/project-1//)
 {{% /notice %}}
 
 {{% notice note %}}
