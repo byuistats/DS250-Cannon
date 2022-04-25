@@ -12,7 +12,7 @@ baseURL = "https://byuistats.github.io/CSE250-Course"
 # theme
 theme = "Dot"
 # site title
-title = "CSE250"
+title = "DS250"
 # disable language
 disableLanguages = [true]
 # google analytics
@@ -38,7 +38,7 @@ copyright = "J. Hathaway and BYU-I ©"
 
 # banner
 [Languages.en.params.banner]
-title = "CSE 250: Data Science Programming"
+title = "DS 250: Data Science Programming"
 subtitle = "Using pandas, Altiar, scikit-learn, and NumPy to program with data"
 bg_image = "images/banner.png"
 placeholder = "Have a question? Just ask here or enter terms"

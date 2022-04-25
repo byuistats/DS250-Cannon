@@ -3,15 +3,15 @@ title: "Day 1: Welcome"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-15T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
-## Welcome to CSE 250!
+## Welcome to DS 250!
 
-- Teacher: Sister Allen (Larson)
-- TA: Asher Hanson
+- Teacher: Paul Cannon
+- TA: Aj Averett
 
 <br>
 
@@ -19,16 +19,10 @@ keywords: [""]
 
 #### Are we all on the Slack channel?
 
-Follow the Slack invitation that is waiting in your student email. If you don't see an invite, you can join through [this link](https://join.slack.com/t/byuidss/signup) and then ask @Asher to add you to the class channel. (Make sure you tell him what class you're in!!)
+Follow the Slack invitation that is waiting in your student email. If you don't see an invite, you can join through [this link](https://join.slack.com/t/byuidss/signup) and then ask "@Aj Averett"  to add you to the class channel. 
 
 <br>
 
-## Let's take a fieldtrip. 
-
-- Mon/Wed class: Meet in the grass by Ricks parking lot (east side).
-- Tues/Thurs class: Meet in front of the Austin (east side).
-
-<br>
 
 ## Quadrant Activity
 
@@ -37,13 +31,10 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 # https://www2.byui.edu/Presentations/transcripts/devotionals/2009_09_15_clark.htm
 -------------------->
 
-1. Introduce yourself and learn the names of your group members.
+1. Introduce yourself and learn the names/majors/origin story of your group members.
 1. Make a plan to get help this semester. If you need a friend in class, how will you contact each other? Some ideas: Slack, I-Learn, emails, etc.
-1. For each quadrant, think of a person (real or fictional) whose leadership represents that quadrant.
-
-<br>
-
-## Data Activity
+1. If you were independently wealthy, what would you be doing right now?  Would you change majors?
+1. Why are you here?
 
 <br>
 
@@ -63,7 +54,7 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 
 #### Installing Packages and Extensions
 
-Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](../../../course-materials/tools/python-for-data-science/).
+Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/).
 
 The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altiar`, `altair-saver`, `numpy`, and `jupyter`.
 
@@ -71,7 +62,7 @@ The readings will also mention two VS Code extensions you need to install.
 
 #### A note on Jupyter Notebooks vs. Interactive Python Window
 
-The textbook will show you how to use VS Code's interactive python windows. **This semester, we are going to try using Jupyter Notebooks instead.** We will discuss this in class.
+The textbook will show you how to use VS Code's interactive python windows. **Feel free to use Jupyter Notebooks.**
 
 
 
@@ -107,32 +98,15 @@ Note that you must add a line of code that says `chart` in order to print out th
 
 <!-----------------------------------------
 
-## Welcome to CSE 250!
+## Welcome to DS 250!
 
-{{< faq "Introduction to Sister Larson">}}
+{{< faq "Introduction to Brother Cannon">}}
 
-## My family
+## What do you want to know?
 
-![](crazy_family.jpg)
-
-<br>
-
-## Education and Employment
-
-- Undergraduate in Applied Mathematics at BYU-Idaho (2015)
-- Masters degree in Statistics at BYU (2018)
-- Biostatistician at Myriad Genetics doing cancer research.
-- Then back to BYU-Idaho!
 
 <br>
 
-## My interests
-
-- Math, data, and teaching
-- Reading
-- Stained glass windows
-- Musicals
-- Hiking and camping
 
 {{</ faq >}}
 
@@ -143,7 +117,7 @@ Brother Hathaway's definition:
 
 >A blend of programmer, statistician, and communicator that burns with curiosity.
 
-My definiton for CSE 250:
+My definiton for DS 250:
 
 >Someone who can extract insights from data and then communicate those insights with clarity.
 
