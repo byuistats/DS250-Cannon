@@ -12,7 +12,7 @@ keywords: [""]
 
 #### Announcements
 
-The [data science lab](https://byuidatascience.github.io/lab.html) opens this week!
+The [data science lab](https://byuidatascience.github.io/lab/) opens this week!
 
 <br>
 
@@ -151,6 +151,95 @@ names.head()
 names.describe()
 ```
 {{</ faq >}}
+
+## Understanding the power of pandas
+
+{{< faq "What is the data science workflow?" >}}
+
+## The data science workflow
+
+> - __You are going to hit `SHIFT + ENTER` thousands of times.__
+> - __We don't usually source our scripts.__
+> - __Think of Python Interactive like a [TI-86](https://en.wikipedia.org/wiki/TI-86) or Excel on steroids.__
+> - __You code in pieces.__
+> - __Rewrite for clarity!__
+
+{{</ faq >}}
+
+
+
+{{< faq "Can you figure out the functions of pandas?" >}}
+
+{{% notice tip %}}
+[Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+{{% /notice %}}
+
+```python
+df = pd.DataFrame(
+{"a" : [4 ,5, 6],
+"b" : [7, 8, 9],
+"c" : [10, 11, 12]})
+# Can someone read this code in english?
+```
+
+
+### Use the cheat sheet to find the functions you would need to implement the following steps.
+
+__I want to;__
+
+1. sort my table by column `a` then
+1. only use the first 2 rows then
+1. calculate the mean of column `b`.
+
+__I want to;__
+
+1. rename column `a` to `duck` then
+1. subset to only have `duck` and `b` columns then
+1. keep all rows where `b` is less than 9 then
+1. find the min of `duck`
+
+{{</ faq >}}
+
+
+{{< faq "What is method chaining?" >}}
+
+Pandas and Altiar are built to allow for method chaining.  
+
+- Altair is a chart object
+- pandas is a DataFrame object
+- We usually include `()` around our entire method so we can show it in steps.
+
+```python
+flights_url = "https://github.com/byuidatascience/data4python4ds/raw/master/data-raw/flights/flights.csv"
+flights = pd.read_csv(flights_url)
+flights['time_hour'] = pd.to_datetime(flights.time_hour, format = "%Y-%m-%d %H:%M:%S")
+
+(flights
+    .filter(['dep_time'])
+    .assign(
+      hour = lambda x: x.dep_time // 100,
+      minute = lambda x: x.dep_time % 100
+      ))
+```
+
+```python
+url = "https://github.com/byuidatascience/data4python4ds/raw/master/data-raw/mpg/mpg.csv"
+
+mpg = pd.read_csv(url)
+
+chart_loess = (alt.Chart(mpg)
+  .encode(
+    x = "displ",
+    y = "hwy")
+  .transform_loess("displ", "hwy")
+  .mark_line()
+)
+
+chart_loess
+```
+
+{{</ faq >}}
+
 ----------------------------------------->
 
 
