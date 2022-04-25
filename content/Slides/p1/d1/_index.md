@@ -29,7 +29,7 @@ The [data science lab](https://byuidatascience.github.io/lab/) opens this week!
 
 {{< faq "What was that data science community portion of our grade?" >}}
 
-__The [Syllabus](../../course-materials/syllabus) has this section which says;__
+__The [Syllabus](https://byuistats.github.io/DS250-Cannon/course-materials/syllabus/) has this section which says;__
 
 > Data science community
 > 1. Attend data science society at least once during the semester.
@@ -200,45 +200,6 @@ __I want to;__
 
 {{</ faq >}}
 
-
-{{< faq "What is method chaining?" >}}
-
-Pandas and Altiar are built to allow for method chaining.  
-
-- Altair is a chart object
-- pandas is a DataFrame object
-- We usually include `()` around our entire method so we can show it in steps.
-
-```python
-flights_url = "https://github.com/byuidatascience/data4python4ds/raw/master/data-raw/flights/flights.csv"
-flights = pd.read_csv(flights_url)
-flights['time_hour'] = pd.to_datetime(flights.time_hour, format = "%Y-%m-%d %H:%M:%S")
-
-(flights
-    .filter(['dep_time'])
-    .assign(
-      hour = lambda x: x.dep_time // 100,
-      minute = lambda x: x.dep_time % 100
-      ))
-```
-
-```python
-url = "https://github.com/byuidatascience/data4python4ds/raw/master/data-raw/mpg/mpg.csv"
-
-mpg = pd.read_csv(url)
-
-chart_loess = (alt.Chart(mpg)
-  .encode(
-    x = "displ",
-    y = "hwy")
-  .transform_loess("displ", "hwy")
-  .mark_line()
-)
-
-chart_loess
-```
-
-{{</ faq >}}
 
 ----------------------------------------->
 
