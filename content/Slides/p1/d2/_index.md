@@ -17,8 +17,8 @@ keywords: [""]
 2. Change the Project Title (don't have to call it Client Report)
 1. Code can be adjacent to the relevant output as long as it's not distracting, but please include your complete code in an Appendix
 1. Be sure to save the MD file _before_ (re-)writing the PDF
-1. ```{python}
-   ```
+1. "```{python}
+   ```"
 <!------------------
 #### Thoughts about reading notes
 
