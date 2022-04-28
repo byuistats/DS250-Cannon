@@ -10,7 +10,6 @@ keywords: [""]
 
 ## Welcome to class!
 
-#### Gratitude Journal
 #### Announcements
 <!------------------
 #### Thoughts about reading notes
@@ -133,6 +132,20 @@ pd.unique(dat.query('name == "John"').year).size
 ------------------------------------>
 
 ## Getting started with Altair
+
+### Why are we using Altair?
+
+#### It is built on the VEGA and D3 which are fast and web based.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AAuPPorsmJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Grammar of Graphics: Vega-Lite
+
+![](altair_grammar_graphics.png)
+
+> - [Technical Paper](https://www.domoritz.de/papers/2017-VegaLite-InfoVis.pdf)
+> - [Website](https://vega.github.io/vega-lite/)
+> - [Endorsment](https://medium.com/@robin.linacre/why-im-backing-vega-lite-as-our-default-tool-for-data-visualisation-51c20970df39)
 
 #### Grand Grand Question 1
 
