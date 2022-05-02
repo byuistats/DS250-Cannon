@@ -12,15 +12,11 @@ keywords: [""]
 
 <br>
 
-## Gratitude Journal
-
-<br>
-
 ## Reminder about resources
 
 - Download Slack
 - "Potluck" prep assignment
-- Make your own cheat sheet (extra credit!)
+- Make your own cheat sheet
 - Project 0 Summary
 
 <br>
@@ -45,6 +41,18 @@ alt.Chart()
 # names[] vs. names.query()
 ```
 
+
+<br>
+
+{{< faq "Work with your partner to create a line chart that includes both of your names?">}}
+
+> - Can you include total and data for the state in which you were born?
+> - Work together to make the code as eloquent as possible.
+> - [compound charts](https://altair-viz.github.io/user_guide/compound_charts.html)
+
+{{</ faq >}}
+
+
 <br>
 
 **What can you add to your chart to help tell a story?**
@@ -52,6 +60,7 @@ alt.Chart()
 Remember this advice [from Edward Tufte](https://medium.com/@AnyChart/advices-by-edward-tufte-importance-of-context-for-charts-819396300255).
 
 > To be truthful and revealing, data graphics must bear on the question at the heart of quantitative thinking: "Compared to what?" The emaciated, data-thin design should always provoke suspicion, for graphics often lie by omission, leaving out data sufficient for comparisons.
+
 
 <!--------------------
 {{< faq "What are some charts types we could use to answer this question?">}}
