@@ -3,14 +3,12 @@ title: "Day 1: Intro to Flights Data"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 4
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
 ## Welcome to class!
-
-#### Gratitude Journal
 
 #### Announcements
 
@@ -23,6 +21,8 @@ keywords: [""]
 > Today, JSON is the de-facto standard for exchanging data between web and mobile clients and back-end services. [*source*](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html)
 
 <br>
+
+##### What is JSON?
 
 #### Introduce the data
 
