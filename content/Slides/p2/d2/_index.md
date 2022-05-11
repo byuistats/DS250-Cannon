@@ -22,6 +22,8 @@ You need to have Slack open today!
 
 Let's load in some practice data! [Data link.](https://github.com/byuidatascience/data4missing/raw/master/data-raw/mtcars_missing/mtcars_missing.json)
 
+Here's a description of the data:  [Data Description.](https://rstudio-pubs-static.s3.amazonaws.com/61800_faea93548c6b49cc91cd0c5ef5059894.html)
+
 ```python
 import pandas as pd   # to load and transform data
 import numpy as np    # for math/stat calculations
