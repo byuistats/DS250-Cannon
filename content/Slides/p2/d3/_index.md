@@ -3,14 +3,12 @@ title: "Day 3: Missing Data"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
 ## Welcome to class!
-
-#### Gratitude Journal
 
 #### Announcements
 
