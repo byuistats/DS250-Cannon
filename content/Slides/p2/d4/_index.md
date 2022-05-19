@@ -76,6 +76,10 @@ Remember, you need to reformat your missing values to make them consistent!
 # let's change everything to np.nan
 cars_new = cars.replace(999, np.nan).replace("", np.nan)
 
+# or equivalently:
+cars_new = cars.replace([999, ""], np.nan)
+
+
 # did we get them all?
 cars_new.isnull().sum()
 ```
