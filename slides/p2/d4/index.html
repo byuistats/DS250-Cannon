@@ -38,6 +38,10 @@ cars<span style=color:#f92672>.</span>car<span style=color:#f92672>.</span>value
 <span style=color:#75715e># let&#39;s change everything to np.nan</span>
 cars_new <span style=color:#f92672>=</span> cars<span style=color:#f92672>.</span>replace(<span style=color:#ae81ff>999</span>, np<span style=color:#f92672>.</span>nan)<span style=color:#f92672>.</span>replace(<span style=color:#e6db74>&#34;&#34;</span>, np<span style=color:#f92672>.</span>nan)
 
+<span style=color:#75715e># or equivalently:</span>
+cars_new <span style=color:#f92672>=</span> cars<span style=color:#f92672>.</span>replace([<span style=color:#ae81ff>999</span>, <span style=color:#e6db74>&#34;&#34;</span>], np<span style=color:#f92672>.</span>nan)
+
+
 <span style=color:#75715e># did we get them all?</span>
 cars_new<span style=color:#f92672>.</span>isnull()<span style=color:#f92672>.</span>sum()
 </code></pre></div><br><h3 id=saving-json-files-from-a-pandas-dataframe>Saving JSON files from a pandas dataframe</h3><p>You can save a DataFrame as a JSON file like this:</p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#75715e>#%%</span>
