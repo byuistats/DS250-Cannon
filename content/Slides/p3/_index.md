@@ -3,7 +3,7 @@ title: "Week 6-7: Project 3 - Baseball"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-15T10:42:26+06:00
 weight: 5
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -20,12 +20,10 @@ We will use a baseball relational database to explore SQL in Python for data sci
  and [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
 
 
-{{% /notice %}}
+Use the [data.world baseball url](https://byuistats.github.io/CSE250-Course/data/lahmansbaseballdb.sqlite) for the 
+__Data Connection__. You can read the    
+__Connection Instructions__ [for data.world here](https://byuistats.github.io/DS250-Cannon/slides/p3/d1/)
 
-{{% notice tip %}}
-Use the [data.world baseball url](https://data.world/byuidss/cse-250-baseball-database) for the __Data Conneection__. You can read the    
-__Connection Instructions__ [for data.world here](../../course-materials/sql-for-data-science/)
-{{% /notice %}}
 
 ### Grand Questions
 
