@@ -14,6 +14,12 @@ keywords: [""]
 
 #### Announcements
 
+1. Project 2 Highlights
+2. Project 2 comments
+  * Clean up graphs (main titles, axis labels, legends)
+  * Turn them in
+3. Coding Challenge - Thursday June 2
+
 <br>
 
 <!-------------
