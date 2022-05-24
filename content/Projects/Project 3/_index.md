@@ -17,8 +17,8 @@ Your client would like developed SQL queries that they can use to retreive data 
 
 ### Data:
 
-__Data Conneection:__ [data.world baseball url](https://data.world/byuidss/cse-250-baseball-database)   
-__Connection Instructions:__ [See Baseball Instructions for data.world](../../course-materials/sql-for-data-science/)
+__Data:__ [SQLite Database](https://byuistats.github.io/CSE250-Course/data/lahmansbaseballdb.sqlite)   
+__Connection Instructions:__ [See Course Slides](https://byuistats.github.io/DS250-Cannon/slides/p3/d1/)
 
 ### Readings:
 
