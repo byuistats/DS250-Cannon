@@ -18,8 +18,8 @@ Your client would like developed SQL queries that they can use to retreive data 
 ### Data:
 
 __Data:__ [SQLite Database](https://byuistats.github.io/CSE250-Course/data/lahmansbaseballdb.sqlite)   
-__Connection Instructions:__ [See Course Slides](https://byuistats.github.io/DS250-Cannon/slides/p3/d1/)
-__Data Dictionary__ [data dictionary](https://www.seanlahman.com/files/database/readme2017.txt)
+__Connection Instructions:__ [See Course Slides](https://byuistats.github.io/DS250-Cannon/slides/p3/d1/)   
+__Data Documentation:__ [Data Dictionary](https://www.seanlahman.com/files/database/readme2017.txt)
 
 ### Readings:
 
