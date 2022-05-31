@@ -3,16 +3,25 @@ title: "Day 3: The end of baseball"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
 ## Welcome to class!
 
-#### Gratitude Journal
+#### Spiritual Thought
 
 #### Announcements
+
+1. Practice Coding Challenge
+* What would your coding challenge look like?
+2. Can I still get an "A"?
+* Profile of an "A" student
+* What if I fall behind? 
+4. Reminders:
+* DS community assignment
+* Review and Request Letter
 
 <br>
 
