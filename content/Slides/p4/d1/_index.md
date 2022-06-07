@@ -8,39 +8,28 @@ draft: false
 keywords: [""]
 ---
 
-### No class today!
-
-<!----------------------------------------------------
-Day 1: A Classification Problem
-
 ## Welcome to class!
 
 #### Announcements
 #### Spiritual Thought
 
-- [Don't wait for inspiration.](https://youtu.be/tr6mToyyjT0?t=1037)
+- How do you distinguish between truth and error?
 
 
 <br>
-------------------------------------------------------->
-<!---------------------------------
-## Spiritual Thought
-
-What is the difference between these two charts?
-
-![](hist1.png)
-
-![](hist2.png)
-
-
-> Elder Bednar, *Converted Unto the Lord*: "As the wise virgins emphasized properly, each of us must 'buy for ourselves.' These inspired women were not describing a business transaction; rather, they were emphasizing our individual responsibility to keep our lamp of testimony burning and to obtain an ample supply of the oil of conversion. This precious oil is acquired one drop at a time - 'line upon line [and] precept upon precept' (2 Nephi 28:30), patiently and persistently. No shortcut is available; no last-minute flurry of preparation is possible."
 
 - What is your testimony built on?
 - How do you receive answers from the Holy Ghost?
 - How can you tell the difference between right and wrong?
 
 <br>
----------------------------------->
+
+
+## A Cautionary Tale
+
+![Forest](forest_no_tank.png)
+
+![Tank](tank.png)
 
 ## Machine Learning: Recognizing Patterns
 
