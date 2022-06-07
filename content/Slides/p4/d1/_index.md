@@ -63,7 +63,7 @@ Can we predict if a student is from Utah?
 
 ## Your Turn: Features and Targets 
 
-Import [dwellings.csv](https://byuistats.github.io/CSE250-Larson/projects/project-4/). With a neighbor:
+Import [dwellings.csv](https://byuistats.github.io/DS250-Cannon/projects/project-4/). With a neighbor:
 
 1. **Try to describe the data.** Explain what each observation (row) is and what measurements we have on that observation (columns).
 2. **Now try describing the modeling (machine learning) we are going to do in terms of "features" and "targets".** Watch out - are there any columns that are the target in disguise? (You may need to review the [project goal](../../projects/project-4).)
