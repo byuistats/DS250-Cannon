@@ -11,10 +11,14 @@ keywords: [""]
 ## Welcome to class!
 
 #### Announcements
+1. Project 3
+2. Coding Challenge - Table
+3. 
+
 #### Spiritual Thought
 
 - How do you distinguish between truth and error?
-- Are facts true?
+- Joshua and Caleb
 
 <br>
 
