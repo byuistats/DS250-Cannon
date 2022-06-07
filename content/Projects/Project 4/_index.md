@@ -18,7 +18,8 @@ Colorado gave you home sales data for the city of Denver from 2013 on which to t
 
 ### Data:
 
-__Download:__ [dwellings_denver.csv](https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_denver/dwellings_denver.csv), [dwellings_ml.csv](https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_ml/dwellings_ml.csv), [dwellings_neighborhoods_ml.csv](https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_neighborhoods_ml/dwellings_neighborhoods_ml.csv)   
+__Download:__ [dwellings_denver.csv](https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_denver/dwellings_denver.csv), [dwellings_ml.csv](https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_ml/dwellings_ml.csv)   
+__Optional Download:__ [dwellings_neighborhoods_ml.csv](https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_neighborhoods_ml/dwellings_neighborhoods_ml.csv) 
 __Information:__ [Data description](https://github.com/byuidatascience/data4dwellings/blob/master/data.md)
 
 
