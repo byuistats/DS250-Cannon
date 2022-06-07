@@ -14,13 +14,12 @@ keywords: [""]
 #### Spiritual Thought
 
 - How do you distinguish between truth and error?
-
+- Are facts true?
 
 <br>
 
 - What is your testimony built on?
 - How do you receive answers from the Holy Ghost?
-- How can you tell the difference between right and wrong?
 
 <br>
 
