@@ -1,5 +1,5 @@
 ---
-title: "Day 1: Holiday"
+title: "Day 1: Intro to ML"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-01T10:42:26+06:00
 weight: 4
