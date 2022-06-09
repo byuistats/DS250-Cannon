@@ -60,9 +60,9 @@ __Read the documentation and tell me what is returned?__
 
 __[Function documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)__   
 
-#### Why do we use "test_size" and "random_state"?
+> Why do we use "test_size" and "random_state"?
 
-#### What is "x" and "y"  in the above function example?
+> What is "x" and "y"  in the above function example?
 
 We need to take our data and build the feature and target data objects.
 
