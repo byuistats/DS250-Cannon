@@ -21,7 +21,24 @@ Day 2: Training a Classifier
 
 ## Splitting the Data
 
-#### 1. Start with a data set
+#### 1. Start with packages and data set
+
+We'll be using some parts of SKLEARN package and the Seaborn package.
+
+```python
+from types import GeneratorType
+import pandas as pd
+import altair as alt
+import numpy as np
+import seaborn as sns
+
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import GaussianNB
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn import metrics
+```
 
 What is the difference between `dwellings_denver.csv` and `dwellings_ml.csv`?
 
