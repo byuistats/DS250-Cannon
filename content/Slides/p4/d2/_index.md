@@ -48,16 +48,32 @@ corr = h_subset.drop(columns = 'before1980').corr()
 sns.heatmap(corr)
 ```
 
+#### 4. Split into training and testing sets
+
+### What does the "train_test_split()" function do?
+
+```python
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = #???, random_state = #???)
+```
+
+__Read the documentation and tell me what is returned?__
+
+__[Function documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)__   
+
+#### Why do we use "test_size" and "random_state"?
+
+#### What is "x" and "y"  in the above function example?
+
+We need to take our data and build the feature and target data objects.
+
+> What columns should we remove from our features (X)?   
+
+> What column should we use as our target (y)?
+
 
 ```python
 x = dwellings_ml.filter([#what variables will you use as "features"?])
 y = dwellings_ml[#what variable is the "target"?]
-```
-
-#### 4. Split into training and testing sets
-
-```python
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = #???, random_state = #???)
 ```
 
 <br>
