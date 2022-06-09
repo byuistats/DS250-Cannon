@@ -17,16 +17,6 @@ Day 2: Training a Classifier
 #### Announcements
 #### Spiritual thought
 
-[Don't wait for inspiration.](https://youtu.be/tr6mToyyjT0?t=1037)
-
-<br>
-
-## What is Machine Learning?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5q87K1WaoFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
 <br>
 
 ## Splitting the Data
@@ -42,6 +32,22 @@ How do we know which variables to use out of `dwellings_ml.csv`?
 **Question 1** will help you identify patterns (or lack of patterns) in the data.
 
 #### 3. Separate into features and target
+
+## Which Features?
+
+```python
+# %%
+h_subset = dwellings_ml.filter(['livearea', 'finbsmnt', 
+    'basement', 'yearbuilt', 'nocars', 'numbdrm', 'numbaths', 
+    'stories', 'yrbuilt', 'before1980']).sample(500)
+
+sns.pairplot(h_subset, hue = 'before1980')
+
+corr = h_subset.drop(columns = 'before1980').corr()
+# %%
+sns.heatmap(corr)
+```
+
 
 ```python
 x = dwellings_ml.filter([#what variables will you use as "features"?])
@@ -129,6 +135,8 @@ Common questions:
 {{</ faq >}}
 
 {{< faq "What is the 5000 rows error with Altair?">}}
+
+The best way around this is to look at a sub-sample of the data for exploratory purposes.  For example, you can use "sample(500)".  But there are ways to expand VS Code's limits.  
 
 [MaxRowsError: How can I plot Large Datasets?](https://altair-viz.github.io/user_guide/faq.html#maxrowserror-how-can-i-plot-large-datasets)
 
