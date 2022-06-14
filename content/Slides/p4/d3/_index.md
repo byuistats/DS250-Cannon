@@ -128,8 +128,6 @@ Read [How to evaluate your ML model](https://ranvir.xyz/blog/how-to-evaluate-you
 - __[Tour of Evaluation Metrics for Imbalanced Classification](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/)__
 
 
-![](https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Choose-a-Metric-for-Imbalanced-Classification-latest.png)
-
 ##### Accuracy
 
 Problem 2 is looking for a model that has "at least 90% accuracy". 
