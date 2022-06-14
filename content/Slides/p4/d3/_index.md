@@ -10,8 +10,12 @@ keywords: [""]
 
 ## Welcome to class!
 
-#### Announcements
 #### Spiritual Thought
+
+#### Announcements
+1. Extra credit - Midterm feedback (I-Learn)
+1. Coding Challenge code posted
+
 
 <br>
 
