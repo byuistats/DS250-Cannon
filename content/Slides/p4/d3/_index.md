@@ -17,10 +17,7 @@ keywords: [""]
 
 ## Building a Decision Tree
 
-<!-- https://www.microsoft.com/en-us/videoplayer/embed/RE4xAok?pid=RE4xAok-ax-85-id-oneplayer&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false -->
-
-
-<iframe width="560" height="315" src="https://youtu.be/ZVR2Way4nwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVR2Way4nwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{< faq "Import packages">}}
 
