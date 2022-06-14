@@ -3,7 +3,7 @@ title: "Day 3: Training a Classifier, Part 2"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-01T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -11,7 +11,7 @@ keywords: [""]
 ## Welcome to class!
 
 #### Announcements
-#### Gratitude Journal
+#### Spiritual Thought
 
 <br>
 
@@ -113,13 +113,22 @@ feature_df
 
 <br>
 
-<!-----------------------
 
 ## Evaluating model performance
 
 ##### Do your reading!
 
 Read [How to evaluate your ML model](https://ranvir.xyz/blog/how-to-evaluate-your-machine-learning-model-like-a-pro-metrics/) and try googling other ideas.
+
+- [The boy who cried wolf (the confusion matrix)](https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative)
+- [Accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
+- [Precision and Recall](https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall)
+
+- __[How to evaluate your ML model](https://ranvir.xyz/blog/how-to-evaluate-your-machine-learning-model-like-a-pro-metrics/)__
+- __[Tour of Evaluation Metrics for Imbalanced Classification](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/)__
+
+
+![](https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Choose-a-Metric-for-Imbalanced-Classification-latest.png)
 
 ##### Accuracy
 
@@ -145,4 +154,5 @@ print(pd.crosstab(y_test.before1980, y_predicted_DT, rownames=['True'], colnames
 # requires 'matplotlib' to be installed
 metrics.plot_confusion_matrix(classifier_DT, x_test, y_test)
 ```
------------------------------->
+
+
