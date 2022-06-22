@@ -10,6 +10,10 @@ keywords: [""]
 
 ## Welcome to class!
 #### Announcements
+1. Project 4 thoughts
+*  Feature Importances - Sorted Bar Graph, not unsorted tables
+
+
 #### Spiritual Thought
 
 <br>
