@@ -16,11 +16,12 @@ keywords: [""]
 1. Project 4 thoughts
 *  Feature Importances - Sorted Bar Graph, not unsorted tables
 2. Midterm class survey
-*  28 Respondents so far
-*  Trends:
-** Too much reading, more direction on reading
-** Like group work, more time in class to work on projects
-** Classtime management
+  *  28 Respondents so far
+  *  Trends:
+    * Like 2-week structure
+    * Like group work, more time in class to work on projects
+    * Too much reading/more direction on reading
+    * Better classtime management/Class structure
 
 <br>
 
