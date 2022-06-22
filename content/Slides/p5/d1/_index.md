@@ -21,7 +21,7 @@ keywords: [""]
         * Like 2-week structure
         * Like group work, more time in class to work on projects
         * Too much reading/more direction on reading
-        * Better classtime management/Class structure
+        * Better classtime management/class structure
 
 <br>
 
