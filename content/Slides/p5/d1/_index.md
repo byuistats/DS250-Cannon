@@ -9,12 +9,18 @@ keywords: [""]
 ---
 
 ## Welcome to class!
+
+#### Spiritual Thought
+
 #### Announcements
 1. Project 4 thoughts
 *  Feature Importances - Sorted Bar Graph, not unsorted tables
-
-
-#### Spiritual Thought
+2. Midterm class survey
+*  28 Respondents so far
+*  Trends:
+** Too much reading, more direction on reading
+** Like group work, more time in class to work on projects
+** Classtime management
 
 <br>
 
