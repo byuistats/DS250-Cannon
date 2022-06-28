@@ -3,7 +3,7 @@ title: "Day 3: Validating data, cleaning columns"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -11,13 +11,13 @@ keywords: [""]
 ## Welcome to class!
 
 #### Announcements
-#### Gratitude Journal
+#### Spiritual Thought
 
-<!-----------------------
+
 ## Let's validate some data!
 
 Pick something from [the Star Wars article](https://fivethirtyeight.com/features/americas-favorite-star-wars-movies-and-least-favorite-characters/) you want to validate ("double check").
----------------------------->
+
 
 <!--------------------------------------
 These videos (about 13 minutes each) should help answer your questions with Grand Question 1.
@@ -76,7 +76,7 @@ starwars.head()
 
 <br>
 
-<!-----------------------------
+
 ## Moving from categories to values.
 
 > 1. __Create an additional column(s) that converts the income ranges to a number.__
@@ -88,7 +88,7 @@ starwars.head()
 - [pd.concat(axis=1)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html)
 
 <br>
------------------------>
+
 
 ## Validating visuals
 
