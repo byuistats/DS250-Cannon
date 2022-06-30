@@ -39,13 +39,13 @@ We have some options when converting categorical features (columns) to numeric.
 
 #### Strategize + Code + Share
 
-    - Group 1:  How are you going to turn Age, Income and Education into numbers?
-    - Group 2:  How are you going to encode 
-        - Who Shot First
-        - Gender
-        - Location
-        - All the Yes/No responses
-    - Group 3:  How are you going to deal with the character rankings?  
+- Group 1:  How are you going to turn Age, Income and Education into numbers?
+- Group 2:  How are you going to encode 
+    - Who Shot First
+    - Gender
+    - Location
+    - All the Yes/No responses
+- Group 3:  How are you going to deal with the character rankings?  
 
 ### 2. Combine all the factors into one big X dataframe
 ### 3. Define Y as those making > $50k
