@@ -8,7 +8,41 @@ draft: false
 keywords: [""]
 ---
 
-## Welcome to DS 250!
+## Welcome to DS 250! 
+<!------------------
+
+This is your first programming class that really isn't about programming.  Sure you'll learn how Data Scientists use Python to answer questions with data.
+But above all, you'll develop problem solving skills.  This is what distinguishes a great Data Scientist, not the code.  
+
+This class is fundamentally about solving problems.  Solving problems with your computer.  Solving problems with your code.  By the end of this semester
+you'll have a ton of experience solving problems.  And even if you go on to never code again, you will have learned how to be better problem solvers.  That'll
+stick with you whether you're an accountant or a web designer.  
+
+It's a learned skill.  You have to know where to look, when to ask for help, how to collaborate.
+
+It's going to suck until you get to the point where you know how to Google things the best way, how to distinguish between helpful and useless info.
+
+## First Problem to Solve:  How do the Arthurian Legends, The Princess and the Frog, and Ruth relate?
+1. Define what you mean? Which versions? 
+
+## Second Problem:  Getting Python and the required libraries up and running on your computer.  This sounds simple, but I guarnatee 
+every one of you will run into issues.  There're almost as many ways for this to go wrong as there are students.  
+
+## Install latest version of VSCode and Python.  If you're on a PC, delete all the old versions you may have (more difficult for Mac because it comes pre-installed)
+## Be sure to click the "Add to Path" option
+
+
+# This is also not graded like classes you're used to.  This class is a sumulated version of a job as a Data Scientist. Not all of you are Data Scientists in 
+training, but this is universal:  Communicating technical results so that non-technical people 
+
+1. Problem Solving
+2. Improved coding skills
+3. Effective written/visual communication
+4. Collaboration
+5. Timeliness and communication with the boss
+
+
+-------------------->
 
 - Teacher: Paul Cannon
 - TA: Aj Averett
