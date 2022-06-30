@@ -44,6 +44,9 @@ We have some options when converting categorical features (columns) to numeric.
     - All the Yes/No responses
 - Group 3:  How are you going to deal with the character rankings?  
 
+#### Combine all the factors into one big X dataframe
+#### Define Y as those making > $50k
+
 **First:** Limit the data to only people who answered "Yes" to the question "Have you seen any of the 6 films in the Star Wars franchise?".
 
 **Then:** Use the table below as a guide to prepare your data for machine learning.
