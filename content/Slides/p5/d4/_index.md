@@ -3,15 +3,16 @@ title: "Day 4: May the ML columns be with you"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 1
-draft: true
+draft: False
 # search related keywords
 keywords: [""]
 ---
 
 ## Welcome to class!
 
+#### Spiritual Thought
+
 #### Announcements
-#### Gratitude Journal
 
 <br>
 
@@ -26,13 +27,22 @@ keywords: [""]
 We have some options when converting categorical features (columns) to numeric.
 
 - If the **category contains numeric information** (like a range of numbers) we can convert it to a  numeric variable by taking the minimum, average, or maximum of the range.
-- If the **category is an "ordinal" variable** (meaning, [there is an order to the categories](https://www.questionpro.com/blog/nominal-ordinal-interval-ratio/#:~:text=Nominal%20scale%20is%20a%20naming,each%20of%20its%20variable%20options.)) we can assign each category to an integer. (For example, good = 1, better = 2, best = 3.)
-- If the **category is a "nominal" variable** (without an order) then we need to use one-hot encoding (sometimes called "[dummy variable encoding](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/)").
+- **Factorization:** If the **category is an "ordinal" variable** (meaning, [there is an order to the categories](https://www.questionpro.com/blog/nominal-ordinal-interval-ratio/#:~:text=Nominal%20scale%20is%20a%20naming,each%20of%20its%20variable%20options.)) we can assign each category to an integer. (For example, good = 1, better = 2, best = 3.) 
+- **One-hot Encoding or Dummy Variables:** If the **category is a "nominal" variable** (without an order) then we need to use one-hot encoding (sometimes called "[dummy variable encoding](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/)").
 - If the **category is some version of True/False or Yes/No** then we can simply convert the values to zeros and ones.
 
 <br>
 
 ### What's our game plan for the Star Wars columns?
+
+# Break into Groups
+- Group 1:  How are you going to turn Age, Income and Education into numbers?
+- Group 2:  How are you going to encode 
+    - Who Shot First
+    - Gender
+    - Location
+    - All the Yes/No responses
+- Group 3:  How are you going to deal with the character rankings?  
 
 **First:** Limit the data to only people who answered "Yes" to the question "Have you seen any of the 6 films in the Star Wars franchise?".
 
