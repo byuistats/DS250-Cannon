@@ -33,9 +33,9 @@ We have some options when converting categorical features (columns) to numeric.
 
 <br>
 
-### What's our game plan for the Star Wars columns?
+# What's our game plan for the Star Wars columns?
 
-# Break into Groups
+### Break into Groups
 - Group 1:  How are you going to turn Age, Income and Education into numbers?
 - Group 2:  How are you going to encode 
     - Who Shot First
