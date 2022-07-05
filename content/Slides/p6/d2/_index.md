@@ -14,6 +14,9 @@ keywords: [""]
 #### Announcements
 1. The last day of DSS is July 13th at 6:00PM in STC 398
 1. Extra credit for creating and uploading cheat sheet (2 points for projects or checkpoints)
+1. Coding Challenge is July 19
+
+1. The technical aspects of Project 6 will be done mostly in class. Resume prep/MD outside
 
 <!----------------------
 ## Syllabus Review
