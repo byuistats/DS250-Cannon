@@ -3,15 +3,17 @@ title: "Day 1: Git and Github"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 3
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
 ## Welcome to class!
 
-#### Gratitude Journal
+#### Spiritual Thought
 #### Announcements
+1. The last day of DSS is July 13th at 6:00PM in STC 398
+1. Extra credit for creating and uploading cheat sheet (2 points for projects or checkpoints)
 
 <!----------------------
 ## Syllabus Review
@@ -61,6 +63,8 @@ More bad news. Do you use GitHub to work with other people or to coordinate your
 
 Follow steps 1-4 of [this tutorial](https://www.jcchouinard.com/install-git-in-vscode/). 
 
+Then request access tothe BYU-I Resumes page at [byui-resumes](https://byui-dss.herokuapp.com/)
+
 Then follow the link in Slack to join our GitHub organization - [byuids-resumes](https://github.com/byuids-resumes).
 
 If you are on a Mac, these links might be helpful:
@@ -71,7 +75,8 @@ If you are on a Mac, these links might be helpful:
 
 <br>
 
-### Step 2: Create a repository from the resume template
+### Step 2: Create a repository from the resume template and connect to the BYUI
+
 
 ![](template_github.png)
 
