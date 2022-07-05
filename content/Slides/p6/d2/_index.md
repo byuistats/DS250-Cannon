@@ -66,9 +66,11 @@ More bad news. Do you use GitHub to work with other people or to coordinate your
 
 Follow steps 1-4 of [this tutorial](https://www.jcchouinard.com/install-git-in-vscode/). 
 
-Then request access tothe BYU-I Resumes page at [byui-resumes](https://byui-dss.herokuapp.com/)
-
-Then follow the link in Slack to join our GitHub organization - [byuids-resumes](https://github.com/byuids-resumes).
+Then:
+1. Request access tothe BYU-I Resumes page at [Request Access](https://byui-dss.herokuapp.com/)
+2. Respond to the auto-generated email
+3. Wait a few minutes for authorization
+4. Join our GitHub organization - [byuids-resumes](https://github.com/byuids-resumes).
 
 If you are on a Mac, these links might be helpful:
 
