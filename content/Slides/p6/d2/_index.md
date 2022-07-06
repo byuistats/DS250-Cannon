@@ -93,8 +93,8 @@ If you are on a Mac, these links might be helpful:
 - Scroll down to the GitHub Pages section.
 - Under source select the box which says None and pick master.
 - Now select the /docs folder and click save.
-- Check your published site settings and copy your site URL.
-- Update your repository landing page to include your resume URL.
+- Copy your site URL at the top of the /settings/pages location.
+- Add your link to the About section of your repository.
 - Edit the readme.md in the base repo to not show the resume directions.
 
 <br>
