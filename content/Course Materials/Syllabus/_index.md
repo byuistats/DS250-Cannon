@@ -102,14 +102,14 @@ You will need to provide a detailed description of your completed grading elemen
 
 #### Leader (A)
 
-| Element                                   | Requirement     | Details                   |
+| Element                                   | Requirement     | Description               |
 | :----------------------------------       | --------------- | ------------------------- |
-| __Projects__                              | 34 Points       | 7 projects, 5 points each |
-| __Methods Checkpoints__                   | 6 completed     | Completed at 100%, unlimited attempts   |
-| __Halfway Checkpoints__                   | 5 completed     | Completed at 100%         |
-| __DS Community__                          | 2 completed     | --                        |
-| __Review and Request Letter__             | Submission      | --                        |
-| __Coding Challenge__                      | At least a 3    | Score is out of 4         |
+| __Projects__                              | 34 Points       | 5 points per project      |
+| __Mid-project checkpoints__               | 5 completed     | Full credit               |
+| __Methods & Calculations checkpoints__    | 6 completed     | 100% unlimited attempts   |
+| __DS Community__                          | Complete all    | --                        |
+| __Request and review letter__             | submission      | --                        |
+| __Coding challenge__                      | At least 3      | Score is out of 4         |
 
 See the competency descriptions in the next section. You can request half-step adjustments if you fall slightly short or over on some elements.
 
@@ -120,14 +120,14 @@ See the competency descriptions in the next section. You can request half-step a
 #### Supporter (B)
 
 
-| Element                                   | Requirement     | Details                   |
+| Element                                   | Requirement     | Description               |
 | :----------------------------------       | --------------- | ------------------------- |
-| __Projects__                              | 29 Points       | 7 projects, 5 points each |
-| __Methods Checkpoints__                   | 5 completed     | Completed at 100%, unlimited attempts   |
-| __Halfway Checkpoints__                   | 3 completed     | Completed at 100%         |
-| __DS Community__                          | 2 completed     | --                        |
-| __Review and Request Letter__             | Submission      | --                        |
-| __Coding Challenge__                      | At least a 3    | Score is out of 4         |
+| __Projects__                              | 29 Points       | 5 points per project      |
+| __Mid-project checkpoints__               | 3 completed     | Full credit               |
+| __Methods & Calculations checkpoints__    | 5 completed     | 100% unlimited attempts   |
+| __DS Community__                          | Complete 2 items| --                        |
+| __Request and review letter__             | submission      | --                        |
+| __Coding challenge__                      | At least 3      | Score is out of 4         |
 
 See the competency descriptions in the next section. You can request half-step adjustments if you fall slightly short or over on some elements.
     {{% /tab %}}
@@ -137,14 +137,14 @@ See the competency descriptions in the next section. You can request half-step a
 #### Listener (C)
 
 
-| Element                                   | Requirement     | Details                   |
+| Element                                   | Requirement     | Description               |
 | :----------------------------------       | --------------- | ------------------------- |
-| __Projects__                              | 24 Points       | 7 projects, 5 points each |
-| __Methods Checkpoints__                   | 3 completed     | Completed at 100%, unlimited attempts   |
-| __Halfway Checkpoints__                   | 3 completed     | Completed at 100%         |
-| __DS Community__                          | 1 completed     | --                        |
-| __Review and Request Letter__             | Submission      | --                        |
-| __Coding Challenge__                      | At least a 2    | Score is out of 4         |
+| __Projects__                              | 24 Points       | 5 points per project      |
+| __Mid-project checkpoints__               | 3 completed     | Full credit               |
+| __Methods & Calculations checkpoints__    | 3 completed     | 100% unlimited attempts   |
+| __DS Community__                          | Complete 1 item | --                        |
+| __Request and review letter__             | submission      | --                        |
+| __Coding challenge__                      | At least 2      | Score is out of 4         |
 
 See the competency descriptions in the next section. You can request half-step adjustments if you fall slightly short or over on some elements.
 
@@ -155,51 +155,47 @@ See the competency descriptions in the next section. You can request half-step a
 #### Asleep (D)
 
 
-| Element                                   | Requirement     | Details                   |
+| Element                                   | Requirement     | Description               |
 | :----------------------------------       | --------------- | ------------------------- |
-| __Projects__                              | 14 Points       | 7 projects, 5 points each |
-| __Methods Checkpoints__                   | 2 completed     | Completed at 100%, unlimited attempts   |
-| __Halgway Checkpoints__                   | 1 completed     | Completed at 100%         |
+| __Projects__                              | 14 Points       | 5 points per project      |
+| __Mid-project checkpoints__               | 1 completed     | Full credit               |
+| __Methods & Calculations checkpoints__    | 2 completed     | 100% unlimited attempts   |
 | __DS Community__                          | None            | --                        |
-| __Review and Request Letter__             | None            | --                        |
-| __Coding Challenge__                      | None            | Score is out of 4         |
+| __Request and review letter__             | None            | --                        |
+| __Coding challenge__                      | None            | Score is out of 4         |
 
-See the element descriptions in the next section. You can request half-step adjustments if you fall slightly short or over on some elements.
+See the competency descriptions in the next section. You can request half-step adjustments if you fall slightly short or over on some elements.
 
     {{% /tab %}}
 
 {{% /tabs %}}
 
 
-{{</ faq >}}
-
-
-
-{{< faq "Grading Elements" >}}
+### Competency elements {#elements}
 
 
 {{% tabs %}}
 
     {{% tab "Projects" %}}
 
-#### Projects (Grand Questions)
+#### Projects (Grand questions)
 
-Each of the seven projects is worth 5 points. You get one additional submission after the due date.
+_Each of the seven projects is worth 5 points and you get one additional submission after the due date. There are 5 two-week projects and two one-week projects to start and end the class._
 
 ##### Grading Details
 
 * **1 point:**  Submission
-* **3 points:** Submission of a good faith attempt with a statement of work quality.
+* **3 points:** submission of a good faith attempt with a statement of work quality.
 * **4 points:** High-quality work that addresses each of the _Grand Questions_ and a statement of work quality.
-* **5 points:** High-quality work that addresses each of the _Grand Questions_ and a statement of work quality. Addressed reviewer issues and completion of resubmission if needed.
+* **5 points:** Addressed reviewer issues and completion of resubmission if needed.
 
     {{% /tab %}}
-    
-    {{% tab "Methods Checkpoints" %}}
 
-#### Methods Checkpoints
+    {{% tab "Checkpoints methods" %}}
 
-These quizzes are in Canvas and they open when the project starts.  They have unlimited attempts and remain open until the end of the semester.
+#### Checkpoints (methods and calculations)
+
+_These checkpoints are in Canvas and they open when the project starts.  They have unlimited attempts and remain open until the end of the semester._
 
 ##### Examples
 
@@ -214,61 +210,51 @@ These quizzes are in Canvas and they open when the project starts.  They have un
 2. Example (open): Your client has shown some confusion about NumPy's 'nan' handling in Python. Help them understand by answering the question, 'How is missing data handled in Pandas?' 
 
     {{% /tab %}}
-    
-    {{% tab "Halfawy Checkpoints" %}}
 
-#### Halfway Checkpoints (Video Submission)
+    {{% tab "Checkpoints mid-project" %}}
 
-The halfway checkpoints track your progress on the project questions. They open the first day of the project and close at midnight the day before the 3rd day of class. For each halfway checkpoint you record a short video (<1 minute) of your code. You must answer the following questions in your video for full credit:
+#### Checkpoints (Mid-project status)
 
-1. How long have you worked on this code?
-1. What is your code designed to do?
-1. What are, if any, the issues you're facing?
-1. What grand questions have you checked off? 
+_The mid-project checkpoint has a few questions.  It opens the first day of the project and closes at 1 am on the 3rd day of class for the project. It has the following questions._
 
-    {{% /tab %}}
+##### Examples
 
-    {{% tab "DS Community" %}}
-
-#### Data Science Community
-
-To earn credit for the DS Community element, complete these two tasks:
-
-1. Attend data science society at least once during the semester.
-2. Register to get a regular email on topics related to data science.
-
-*Possible third option:* If you think of another way to engage with the data science community, reach out to me and see if it can count for class!
-
-##### BYU-I Data Science Society
-
-The society meets on Wednesdays at 6:00 pm in the STC. It starts the second Wednesday of the semester. Watch the #general channel in Slack for announcements about society.
-
-#### Register for a newsletter
-
-Here are a few examples.
-
-- https://www.datascienceweekly.org/
-- https://dataelixir.com/ [Archives](https://dataelixir.com/newsletters/)
-- https://tinyletter.com/data-is-plural
-- https://towardsdatascience.com/tagged/tds-letter [sign-up](https://towardsdatascience.com/receive-our-newsletters-681049ffa0cf)
+1. Have you checked off more than one grand question from the current project?  (Yes/No)
+2. Have you spent at least 2 hours using code to tackle problems related to the case study? (Yes/No).
+3. Have you prepared questions you have about the case study to ask in your next meeting? (Yes/No).
 
     {{% /tab %}}
 
-    {{% tab "R&R Letter" %}}
+    {{% tab "DS community" %}}
 
-#### Review and Request Letter (Finishing the Semester)
+#### Data science community
 
-Submit a "review and request" letter that includes what you have learned from this class, the next data science course you plan on taking, and the final grade that you are requesting based on the work you have submitted.
+To earn credit for the DS Community element you must complete two different tasks from the list below. At the end of the semester, you will be asked to report on which tasks you completed and what you learned from them.
+
+-  Attend [Data Science Society](https://byuidatascience.github.io/society/) at least once.
+- Sign up for an email newsletter that will teach you more about data science. [Data Science Weekly](https://www.datascienceweekly.org/) or [Data Elixir](https://dataelixir.com/) are good options.
+- Listen to a podcast episode about data science. [Build a Career in Data Science](https://podcast.bestbook.cool/) has some excellent episodes.
+- Watch a professional presentation on YouTube about data science. Be prepared to share the link and a summary of the video.
+- Reach out to someone who works in a data-related field and ask them for 15 minutes of their time. Use this time to conduct an "[informational interview](https://brightspotcdn.byu.edu/54/b6/2554ebb842fab54640a15ff0afb3/informational-interview.pdf)" and learn more about their responsibilities and career path.
+- Research and apply to at least 5 data-related jobs or internships.
+
+    {{% /tab %}}
+
+    {{% tab "R & R letter" %}}
+
+#### Finishing the semester
+
+Submit a _request and review_ letter that includes what you have learned from this class, the next data science course you plan on taking, and the final grade that you are requesting based on the work you have submitted.
 
     {{% /tab %}}
 
     {{% tab "Challenge" %}}
 
-#### Coding Challenge
+#### Coding challenge
 
-We will have an in-class coding challenge on the last day of class. It will cover the general techniques that we have been practicing throughout the course.
+We will have an in-class coding challenge on the ultimate or penultimate day of class. It would be best if you did not view this challenge like a traditional exam.  It will cover the general techniques that we have been practicing throughout the course.
 
-I expect to have a few practice challenges throughout the semester. I will score the coding challenge on a four-point scale.
+We expect to have a few practice challenges throughout the semester. We will score the coding challenge on a four-point scale.
 
 - **1 point:** At least you tried.
 - **2 points:** You have learned some items from the course, but your work in the coding challenge is deficient.
@@ -279,7 +265,6 @@ I expect to have a few practice challenges throughout the semester. I will score
 
 
 {{% /tabs %}}
-
 
 {{</ faq >}}
 
