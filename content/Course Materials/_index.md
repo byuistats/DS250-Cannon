@@ -17,6 +17,6 @@ We will be relying on a few resources for this course. You will find the pertina
 - [scikit-learn tutorials](https://scikit-learn.org/stable/tutorial/index.html)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
-- [SQL by data.world](https://docs.data.world/documentation/sql/concepts/basic/intro.html)
+- [SQL](https://docs.data.world/documentation/sql/concepts/basic/intro.html)
 
 Wes McKinney's pandas code for his book [Python for Data Analysis]() is a useful reference as well: <https://github.com/wesm/pydata-book>

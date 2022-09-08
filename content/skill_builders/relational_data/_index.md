@@ -1,5 +1,5 @@
 ---
-title: "SQL & databases (4 days)"
+title: "SQL & databases"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-15T10:42:26+06:00
 weight: 4
@@ -17,12 +17,15 @@ A competent student should be able to finish the exercises within 75 minutes.
 
 ## Before you start
 
-Make sure you have installed VS-code, pandas, Altair, and datadotworld on your computer.  
+Make sure you have installed VS-code, pandas, and Altair on your computer.  
 
 Also make sure you have gone through the tutorial on under course materials called [SQL for Data Science](../../course-materials/sql-for-data-science/):
-we assume that you imported datadotworld as dw (`import datadotworld as dw`).
+we assume that you have a connection to your data.
+
 ## Exercise 1
+
 ### Readme file
+
 A database can consist of more than one table/data set. A relational database consists of tables/data sets that share columns. These shared columns then establish the relationship between the tables, thus the name relational database. The relations are sometimes not easily found and they require careful investigations.
 
 To understand what is in a relational database, we can start with understanding the tables and the columns within.
@@ -42,10 +45,11 @@ The simplest SQL query is a query with `SELECT` and `FROM`. These are the keywor
 You script should look something like:
 
 ```{python}
-result = dw.query('byuidss/cse-250-baseball-database', 
-    'SELECT _______ FROM _______')
+result = pd.read_sql_query(
+    'SELECT _______ FROM _______',
+    con)
 
-pitch = result.dataframe
+results
 ```
 
 ## Excercise 2 WHERE 

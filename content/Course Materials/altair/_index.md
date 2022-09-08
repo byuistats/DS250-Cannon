@@ -13,8 +13,13 @@ keywords: [""]
 We will be using Altair in our course. It is a declarative visualization package in Python that is based on Vega-Lite which leverages the grammar of graphics.
 
 - [User Guide](https://altair-viz.github.io/)
-- [Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
+- [Data Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/intro.html) or the [Quarto version]()
+https://jjallaire.github.io/visualization-curriculum/)
 - [P4DS Data Visualization Chapter](https://byuidatascience.github.io/python4ds/data-visualisation.html)
+
+## Rendering Altair Charts in Quarto
+
+We use [Quarto](https://quarto.org/docs/presentations/revealjs/#figure-size) to render Altair images automagically into our HTML reports.  The process should simply work.  However, read in the following section if you need to export one of your images as a `.png` or another image format.
 
 ## Saving Altair Charts
 
@@ -52,6 +57,7 @@ __NodeJS Installation__
 ```
 npm install -g vega-lite vega-cli canvas
 ```
+
 ##### M1 Mac Altair Solution
 
 1. Install selenium using the chromedriver package form [this link](https://chromedriver.chromium.org): [https://chromedriver.chromium.org](https://chromedriver.chromium.org). 
@@ -60,6 +66,7 @@ npm install -g vega-lite vega-cli canvas
 See the [`selenium_fix.py`](selenium_fix.py) script for an example.
 
 _Note: This process will run a local server on your computer that opens the chart as an PNG file in chrome and downloads the file to the folder in which that VSCode file is located on your computer._
+
 
 #### 1.3 Saving a plot using `altair_saver`
 

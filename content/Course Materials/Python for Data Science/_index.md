@@ -18,7 +18,7 @@ We want to install the following three packages;
 
 - [pandas](https://pandas.pydata.org/)
 - [numpy](https://numpy.org/)
-- [scikit-learn](https://scikit-learn.org/stable/install.html#installation-instructions)
+- [scikit-learn](https://scikit-learn.org/stable/install.html#installation-instructions). The Apple Silicon is still more difficult to get installed.  You can use the following links to get it installed - [Link 1](https://scikit-learn.org/stable/install.html#installing-on-apple-silicon-m1-hardware), [Link 2](https://github.com/scikit-learn/scikit-learn/issues/19137), [Link 3](https://github.com/conda-forge/miniforge).
 
 We can get packages installed for this course using one of the two methods below.
 #### Using your terminal

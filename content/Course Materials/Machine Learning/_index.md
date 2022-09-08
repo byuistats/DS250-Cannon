@@ -137,7 +137,7 @@ The *csv* file for the iris data [can be found here](iris.csv). There are many w
 
 ```
 import pandas as pd
-url = "https://byuistats.github.io/CSE250-Course/skill_builders/ml_sklearn/machine_learning.csv"
+url = "https://byuistats.github.io/DS250-Course/skill_builders/ml_sklearn/machine_learning.csv"
 data = pd.read_csv(url)
 ```
 
