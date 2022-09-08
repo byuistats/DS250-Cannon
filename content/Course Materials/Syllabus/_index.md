@@ -91,10 +91,7 @@ You will need to provide a detailed description of your completed grading elemen
 
 *"I got three fives, one four, and two threes for 29 points on the projects. I met the checkpoint requirements with 4 halfway checkpoints and 4 full-mark methods checkpoints. I regularly attended data science society.  I believe my coding challenge will be above a 3.  I request a B+."*
 
-<br>
-
-{{< faq "Grading Scale" >}}
-
+</br>
 
 {{% tabs %}}
 
@@ -266,11 +263,8 @@ We expect to have a few practice challenges throughout the semester. We will sco
 
 {{% /tabs %}}
 
-{{</ faq >}}
-
-<br>
 
 [^1]: https://medium.com/@nikhilbd/what-makes-a-good-data-scientist-engineer-a8b4d7948a86#.jr80wl98y. I suppose some of you are just taking this class because your degree says you can, and it fits in your schedule. If so, we should chat to make sure this is the right class for you.
-[^2]: https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf. You will see this pattern in CSE 350, CSE 451, and Math 488.  It will progressively get more realistic. 
+[^2]: https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf. You will see this pattern in DS 350, DS 460, and Math 488.  It will progressively get more realistic. 
 [^3]: We do expect that this is not your first experience with Python and VS Code.  If you have done other programming courses, you should be able to succeed in this course. If you have any questions, please ask.
 [^4]: Making the right checklists can be difficult.  Bad checklists could fall in the following categories -- vague and imprecise; too long; hard to use; impractical; too pedantic. Useful checklists are precise, efficient, easy to use and understand. This is the first time this course has been offered, so we will have to work together to ensure the requirements are reasonable.  
