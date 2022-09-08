@@ -1,9 +1,9 @@
 ---
-title: "CSE 250 Competency"
+title: "DS 250 Competency"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-15T10:42:26+06:00
 weight: 1
-draft: false
+draft: true
 # search related keywords
 keywords: [""]
 ---
@@ -189,7 +189,6 @@ We expect to have a few practice challenges throughout the semester. We will sco
 
 
 {{% /tabs %}}
-
 
 
 [^1]: https://medium.com/@nikhilbd/what-makes-a-good-data-scientist-engineer-a8b4d7948a86#.jr80wl98y. I suppose some of you are just taking this class because your degree says you can, and it fits in your schedule. If so, we should chat to make sure this is the right class for you.
