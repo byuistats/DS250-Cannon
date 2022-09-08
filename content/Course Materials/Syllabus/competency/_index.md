@@ -153,21 +153,14 @@ _The mid-project checkpoint has a few questions.  It opens the first day of the 
 
 #### Data science community
 
-1. Attend data science society at least once during the semester.
-2. Register to get a regular email on topics related to data science.
+To earn credit for the DS Community element you must complete two different tasks from the list below. At the end of the semester, you will be asked to report on which tasks you completed and what you learned from them.
 
-##### BYU-I Data Science Society
-
-The society meets on Wednesdays at 6:00 pm in the STC.  It starts the second Wednesday of the semester.
-
-#### Register for a newsletter
-
-Here are a few examples.
-
-> - https://www.datascienceweekly.org/
-> - https://dataelixir.com/ [Archives](https://dataelixir.com/newsletters/)
-> - https://tinyletter.com/data-is-plural
-> - https://towardsdatascience.com/tagged/tds-letter [sign-up](https://towardsdatascience.com/receive-our-newsletters-681049ffa0cf)
+-  Attend [Data Science Society](https://byuidatascience.github.io/society/) at least once.
+- Sign up for an email newsletter that will teach you more about data science. [Data Science Weekly](https://www.datascienceweekly.org/) or [Data Elixir](https://dataelixir.com/) are good options.
+- Listen to a podcast episode about data science. [Build a Career in Data Science](https://podcast.bestbook.cool/) has some excellent episodes.
+- Watch a professional presentation on YouTube about data science. Be prepared to share the link and a summary of the video.
+- Reach out to someone who works in a data-related field and ask them for 15 minutes of their time. Use this time to conduct an "[informational interview](https://brightspotcdn.byu.edu/54/b6/2554ebb842fab54640a15ff0afb3/informational-interview.pdf)" and learn more about their responsibilities and career path.
+- Research and apply to at least 5 data-related jobs or internships.
 
     {{% /tab %}}
 
@@ -200,6 +193,6 @@ We expect to have a few practice challenges throughout the semester. We will sco
 
 
 [^1]: https://medium.com/@nikhilbd/what-makes-a-good-data-scientist-engineer-a8b4d7948a86#.jr80wl98y. I suppose some of you are just taking this class because your degree says you can, and it fits in your schedule. If so, we should chat to make sure this is the right class for you.
-[^2]: https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf. You will see this pattern in CSE 350, CSE 451, and Math 488.  It will progressively get more realistic. 
+[^2]: https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf. You will see this pattern in DS 350, DS 460, and Math 488.  It will progressively get more realistic. 
 [^3]: We do expect that this is not your first experience with Python and VS Code.  If you have done other programming courses, you should be able to succeed in this course. If you have any questions, please ask.
 [^4]: Making the right checklists can be difficult.  Bad checklists could fall in the following categories -- vague and imprecise; too long; hard to use; impractical; too pedantic. Useful checklists are precise, efficient, easy to use and understand. This is the first time this course has been offered, so we will have to work together to ensure the requirements are reasonable.  
