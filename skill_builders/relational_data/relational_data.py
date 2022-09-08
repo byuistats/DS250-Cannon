@@ -14,16 +14,17 @@
 
 import pandas as pd
 import altair as alt
-import datadotworld as dw
+import sqlite3
 
 # %%
-db = 'byuidss/cse-250-baseball-database'
+sqlite_file = '../../../static/data/lahmansbaseballdb.sqlite'
+db = sqlite3.connect(sqlite_file)
 query1 = '''SELECT *
             FROM pitching'''
 
-result = dw.query(db, query1)
+result = pd.read_sql_query(query1, db)
 
-pitch = result.dataframe
+result
 
 #%%
 #Exercise 3
@@ -33,8 +34,9 @@ query2 = '''SELECT *
             WHERE HR < 10
                 AND gs > 25'''
 
-result = dw.query(db, query2)
-print(result.dataframe)
+result = pd.read_sql_query(query2, db)
+
+result
 
 ## Find out what the columns mean and explain your query in words
 # Select the pitchers that allowed less than 10 homeruns and started more than 25 games in a team for that season. 
@@ -48,8 +50,9 @@ query3 = '''SELECT *
                 USING (playerid, yearid, teamid)
             WHERE yearid = 1986'''
 
-result = dw.query(db, query3)
-result.dataframe.shape
+result = pd.read_sql_query(query3, db)
+
+result
 # We need to join using teamid because some pitchers transfered to another team 
 # mid-season, and they are getting paid differently.
 
@@ -64,6 +67,9 @@ query4 = '''SELECT COUNT(DISTINCT playerid), yearid
             GROUP BY yearid
             ORDER BY yearid'''
 
+result = pd.read_sql_query(query4, db)
+
+result
 
 #%%
 # Exercise 6
