@@ -116,6 +116,8 @@ Now that you're in groups, put your heads together and tell me how you might go 
 
 <br>
 
+![](googleit.jpg)
+
 ## Getting started on Project 0
 
 #### Before next class, you should:
