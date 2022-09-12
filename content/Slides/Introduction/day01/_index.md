@@ -53,6 +53,37 @@ training, but this is universal:  Communicating technical results so that non-te
 
 ![](ds_4venn.png)
 
+
+## Class Structure
+<!------------------
+
+Data Scientists use computers and code to get insight from data.  They aren't usually the best programmers nor the best statisticians.
+But they get really good at figuring things out.  
+
+Syllabus:  Activities and grading scale
+
+I spent 15 years working as a stat. and DS.  For a long while I was the only one supporting a global organization.  Every time annual reviews came up
+my boss would say, "not sure how to benchmark your."  
+
+Pretty common practice to have a pile of cash to divy up between a team.  Our rankings were relative, meaning exceeds expectations meant did I exceed relative to the 
+rest of my team mates.  
+
+I'd be compared with business leads or research scientists to decide what proportion of the pot I deserved.  Not exactly fair.  
+
+This class is different, though.  You all get the same assignments, and I can see who did exceptional work (communications and technical), and who meets exp.  
+
+Open syllabus
+
+-------------------->
+
+1. Problem Solving
+2. Improved coding skills
+3. Effective written/visual communication
+4. Collaboration
+5. Timeliness and communication with the boss
+
+[Syllabus](https://byuistats.github.io/DS250-Cannon/course-materials/syllabus/)
+
 ## Got Slack?
 
 #### Are we all on the Slack channel?
@@ -106,7 +137,7 @@ The readings will also mention two VS Code extensions you need to install.
 
 #### A note on Jupyter Notebooks vs. Interactive Python Window
 
-The textbook will show you how to use VS Code's interactive python windows. **Feel free to use Jupyter Notebooks.**
+The textbook will show you how to use VS Code's interactive python windows and Quatro. **Feel free to use Jupyter Notebooks.**   
 
 
 
