@@ -45,20 +45,24 @@ training, but this is universal:  Communicating technical results so that non-te
 -------------------->
 
 - Teacher: Paul Cannon
-- TA: Aj Averett
+- TA: :(
 
 <br>
 
-## Syllabus Questions?
+## What is a Data Scientist?
+
+![](ds_4venn.png)
+
+## Got Slack?
 
 #### Are we all on the Slack channel?
 
-Follow the Slack invitation that is waiting in your student email. If you don't see an invite, you can join through [this link](https://join.slack.com/t/byuidss/signup) and then ask "@Aj Averett"  to add you to the class channel. 
+Follow the Slack invitation that is waiting in your student email. If you don't see an invite, you can join through [this link](https://join.slack.com/t/byuidss/signup) and then ask "@Paul Cannon"  to add you to the class channel. 
 
 <br>
 
 
-## Quadrant Activity
+## Who are you?
 
 <!------------------
 # https://www2.byui.edu/Presentations/Transcripts/EducationWeek/2009_07_30_Clark.htm
@@ -69,6 +73,11 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 1. Make a plan to get help this semester. If you need a friend in class, how will you contact each other? Some ideas: Slack, I-Learn, emails, etc.
 1. If you were independently wealthy, what would you be doing right now?  Would you change majors?
 1. Why are you here?
+
+## Problem Solve
+
+Now that you're in groups, put your heads together and tell me how you might go about fixing my motorcycle:
+
 
 <br>
 
@@ -84,7 +93,8 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 1. Download [Python](https://www.python.org/downloads/)
 1. Read the Project 0 instructions
 1. Install the Python packages and VS Code extensions you need
-1. Complete the "Methods Checkpoint" quiz
+1. Install Quatro CLI [Quatro Instructions](https://byuistats.github.io/DS250-Cannon/course-materials/quarto-for-data-science/)
+1. Complete the "Methods Checkpoint"
 
 #### Installing Packages and Extensions
 
