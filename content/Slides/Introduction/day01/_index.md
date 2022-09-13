@@ -126,26 +126,27 @@ Now that you're in groups, put your heads together and tell me how you might go 
 
 ## Getting started on Project 0
 
-#### Before next class, you should:
+#### Setting up your Programming Snvironment
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/)
 1. Download [Python](https://www.python.org/downloads/)
-1. Read the Project 0 instructions
-1. Install the Python packages and VS Code extensions you need
+1. Install the Python packages and VS Code extensions you need (see [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/))
 1. Install Quatro CLI [Quatro Instructions](https://byuistats.github.io/DS250-Cannon/course-materials/quarto-for-data-science/)
+1. Start looking at Project 0
 1. Complete the "Methods Checkpoint"
 
 #### Installing Packages and Extensions
 
 Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/).
 
-The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altiar`, `altair-saver`, `numpy`, and `jupyter`.
+The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altair`, `altair-saver`, `numpy`, and `jupyter`.
 
 The readings will also mention two VS Code extensions you need to install.
 
 #### A note on Jupyter Notebooks vs. Interactive Python Window
 
-The textbook will show you how to use VS Code's interactive python windows and Quatro. **Feel free to use Jupyter Notebooks.**   
+The textbook will show you how to use VS Code's interactive python windows and Quatro. **Feel free to use Jupyter Notebooks.**  
+We will do write-ups in Quarto, though, which can be rendered as a PDF or HTML
 
 
 
