@@ -49,6 +49,12 @@ training, but this is universal:  Communicating technical results so that non-te
 
 <br>
 
+## Announcements
+
+1. Pizza opening social for BioStats, DataSci, MathEd/Comp, and MathSci majors and faculty this Thursday, 9/15, 11:30AM in RKS 229 
+1. Computing Lab  4:30PM - 6:30PM all weekdays except Wednesday (no lab). Saturday from 10AM-12PM
+1. Data Science Society - Wednesday's at 6PM
+
 ## What is a Data Scientist?
 
 ![](ds_4venn.png)
@@ -101,7 +107,7 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 -------------------->
 
 1. Introduce yourself and learn the names/majors/origin story of your group members.
-1. Make a plan to get help this semester. If you need a friend in class, how will you contact each other? Some ideas: Slack, I-Learn, emails, etc.
+1. Make a plan to get help this semester. How will you contact each other? Some ideas: Slack, I-Learn, emails, group texts, etc.
 1. If you were independently wealthy, what would you be doing right now?  Would you change majors?
 1. Why are you here?
 
