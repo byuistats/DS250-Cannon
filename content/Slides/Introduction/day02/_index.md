@@ -3,7 +3,7 @@ title: "Day 2: Welcome and Project 0"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-17T10:42:26+06:00
 weight: 1
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -14,6 +14,8 @@ keywords: [""]
 ## Welcome to DS 250!
 
 #### Syllabus Questions?
+
+A note about readings...
 
 #### Are we all on the Slack channel?
 
@@ -55,12 +57,6 @@ Or you can choose to stick with the [Python Interactive window](https://code.vis
 - A function you have never seen before? Google it.
 - An error in your code? Google it.
 
-#### Jupyter Notebooks
-
-You can use Juypyter Notebooks this semester within VS Code. [This is a great guide](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) to get you started. 
-
-Or you can choose to stick with the [Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py) like the textbook does.
-
 #### Markdown
 
 # What is Markdown?  
@@ -69,6 +65,23 @@ Or you can choose to stick with the [Python Interactive window](https://code.vis
 - Used widely by Data Scientists to publish results and communicate with stakeholders
 
 [Here's a good summary](https://byuistats.github.io/DS250-Cannon/course-materials/markdown/)
+
+#### Quarto
+
+Do all your tinkering in interactive Python or Jupyter notebooks, report finished code, graphs, etc. in Quatro
+
+[Quarto](https://quarto.org/)
+
+
+#### Now for some data!
+
+# Getting Started
+
+# Your turn:
+
+1. Read in the cars data set
+1. Work with you your teams to talk through interesting possibilities for a graph
+1. Start working with
 
 <!----!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!------>
 <!-------- UNEDITED second-day slides ----------------->
