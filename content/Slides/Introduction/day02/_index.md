@@ -59,7 +59,7 @@ Or you can choose to stick with the [Python Interactive window](https://code.vis
 
 #### Markdown
 
-# What is Markdown?  
+##### What is Markdown?  
 - A clean, human readable way to make slick html and pdf documents
 - Used widely among programmers for clean documentation 
 - Used widely by Data Scientists to publish results and communicate with stakeholders
@@ -73,15 +73,15 @@ Do all your tinkering in interactive Python or Jupyter notebooks, report finishe
 [Quarto](https://quarto.org/)
 
 
-#### Now for some data!
+## Now for some data!
 
-# Getting Started
+#### Let's get this party started
 
-# Your turn:
+#### Your turn:
 
 1. Read in the cars data set
 1. Work with you your teams to talk through interesting possibilities for a graph
-1. Start working with
+1. Work on Project 0 Questions and Tasks
 
 <!----!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!------>
 <!-------- UNEDITED second-day slides ----------------->
