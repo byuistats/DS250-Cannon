@@ -13,7 +13,9 @@ keywords: [""]
 
 #### Syllabus Questions?
 
-A note about readings...
+- A note about readings...
+- Tips for asking for help
+- Quarto and tradeoffs
 
 #### Are we all on the Slack channel?
 
