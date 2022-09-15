@@ -16,6 +16,7 @@ keywords: [""]
 - A note about readings...
 - Tips for asking for help
 - Quarto and tradeoffs
+- Project Submissions:  HTML
 
 #### Are we all on the Slack channel?
 
