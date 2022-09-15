@@ -44,7 +44,7 @@ The readings listed below are required for the first two days of class.
 - [Python for Data Science (P4DS): Introduction](https://byuidatascience.github.io/python4ds/introduction.html)
 - [P4DS: Data Visualization Section 3.1 & 3.2 Only](https://byuidatascience.github.io/python4ds/data-visualisation.html)
 - [Saving Altair charts](../../course-materials/altair/)
-- [Markdown for DS](../../content/Course%20Materials/markdown/)
+- [Markdown for DS](../../course-materials/markdown/)
 
 #### Optional References
 
