@@ -15,6 +15,8 @@ keywords: [""]
 
 - A note about readings...
 - Tips for asking for help
+   - Slack
+   - Google - acquired discernment
 - Quarto and tradeoffs
 - Project Submissions:  HTML
 
@@ -27,8 +29,6 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 ## Methods Checkpoint
 
 All the answers will be in the assigned reading or in these slides. 
-
-You will also need to install a package in Python before you answer the last question.
 
 <br>
 
