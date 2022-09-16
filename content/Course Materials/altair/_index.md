@@ -19,7 +19,9 @@ https://jjallaire.github.io/visualization-curriculum/)
 
 ## Rendering Altair Charts in Quarto
 
-We use [Quarto](https://quarto.org/docs/presentations/revealjs/#figure-size) to render Altair images automagically into our HTML reports.  The process should simply work.  However, read in the following section if you need to export one of your images as a `.png` or another image format.
+We use [Quarto](https://quarto.org/docs/presentations/revealjs/#figure-size) to render Altair images automagically into our HTML reports.  The process should simply work.  
+
+**However, read in the following section *IF* you need to export one of your images as a `.png` or another image format.**
 
 ## Saving Altair Charts
 
