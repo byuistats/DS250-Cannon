@@ -100,6 +100,7 @@ Pandas and Altiar are built to allow for method chaining. Here is a great resour
 - pandas creates a DataFrame object
 - We usually include `()` around our entire method so we can show it in steps.
 
+{{</ faq >}}
 
 # Project 1 - Intro
 
@@ -151,11 +152,6 @@ __I would do this process for every project.__
 - **notes.md:** Keep project noteson the readings and things you learn.
 - **my_cheat_sheet.md:** Update your own cheat sheet
 
-{{</ faq >}}
-
-
-
-{{< faq "First steps for Project 1" >}}
 
 Read in the data.
 
@@ -170,7 +166,6 @@ import altair as alt
 url = "https://github.com/byuidatascience/data4names/raw/master/data-raw/names_year/names_year.csv"
 names = pd.read_csv(url)
 ```
-{{</ faq >}}
 
 
 **1. How many unique names does the `names` dataframe contain?** Work with a partner to find the answer. You might want to look at this [pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf).
