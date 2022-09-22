@@ -180,7 +180,7 @@ names = pd.read_csv(url)
 
 **2. What is the range of years in the `names` dataframe?** Again, work with a partner and use the pandas cheat sheet.
 
-{{< faq "Hint" >}}
+{{< faq "Hint2" >}}
 
 1. Pull the year column out as a series
 1. Find the max
