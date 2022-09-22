@@ -134,7 +134,7 @@ my_data.describe()
 
 <br>
 
-{{< faq "Setup for Project 1" >}}
+# Setup for Project 1
 
 #### Create the folder and files to get prepared.
 
