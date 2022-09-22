@@ -33,6 +33,8 @@ Other hints:
 1. Tutoring Lab Slack Channel:  #tutoring_lab
 
 
+#### Back to Day 1 [Slides](https://byuistats.github.io/DS250-Cannon/slides/p1/d1/)
+
 <!------------------
 #### Thoughts about reading notes
 
