@@ -84,8 +84,7 @@ Deliverables are “the quantifiable goods or services that must be provided upo
 _Use this [template](https://byuistats.github.io/DS250-Course/template/ds250_project_template_clean.qmd) to submit your Client Report. The template has three sections (for additional details please see the [instructional template](https://byuistats.github.io/DS250-Course/template/ds250_project_template.qmd)):_
 
 1. _A short summary that highlights key that describes the results describing insights from  metrics  of the project and the tools you used (Think “elevator pitch”)._
-2. _Answers to the grand questions. Each answer should include a written description of your results, code snippets, charts, and tables._
-
+2. _Answers to the questions from the "Questions and Tasks" section above. Each answer should include a written description of your results, code snippets, charts, and tables._
 
 <!-- 
 {{% notice note %}}
