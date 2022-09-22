@@ -20,6 +20,20 @@ keywords: [""]
 1. (```{python}```)
 
 
+# Project 0 Wrap-up
+
+1. If you still cannot render a document in Quarto, let me know
+1. Is python, at least up and running?  able to plot graphs and make tables?
+1. Finishing up a report
+  * Markdown
+    * Tables
+  * HTML submissions
+
+Other hints: 
+1. Autosaver
+2. Tutoring Lab Slack Channel:  #tutoring_lab
+
+
 <!------------------
 #### Thoughts about reading notes
 
