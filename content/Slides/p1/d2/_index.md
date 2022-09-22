@@ -14,10 +14,10 @@ keywords: [""]
 
 #### Project Submissions
 1. Don't leave example text/documentation from the Template in your writeup
-2. Change the Project Title (don't have to call it Client Report)
+1. Change the Project Title (don't have to call it Client Report)
 1. Code can be adjacent to the relevant output as long as it's not distracting, but please include your complete code in an Appendix
-1. Be sure to save the MD file _before_ (re-)writing the PDF
-1. (```{python}```)
+1. Be sure to save the QMD file _before_ rendering
+  * Autosave
 
 
 # Project 0 Wrap-up
@@ -25,13 +25,12 @@ keywords: [""]
 1. If you still cannot render a document in Quarto, let me know
 1. Is python, at least up and running?  able to plot graphs and make tables?
 1. Finishing up a report
-  * Markdown
-    * Tables
+  * [Markdown](https://byuistats.github.io/DS250-Cannon/course-materials/markdown/)
+    * Tables - want to have the printed table in Markdown area, not a code area
   * HTML submissions
 
 Other hints: 
-1. Autosaver
-2. Tutoring Lab Slack Channel:  #tutoring_lab
+1. Tutoring Lab Slack Channel:  #tutoring_lab
 
 
 <!------------------
