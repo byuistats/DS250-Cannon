@@ -17,6 +17,9 @@ names<span style=color:#f92672>.</span>describe()
 </code></pre></div><p><strong>What do you want the chart to look like?</strong></p><p><strong>What types of charts are there?</strong></p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python>alt<span style=color:#f92672>.</span>Chart()
    <span style=color:#f92672>.</span>mark_<span style=color:#f92672>*</span>()
    <span style=color:#f92672>.</span>encode()
+
+<span style=color:#75715e># alt.Chart().encode()</span>
+   
 </code></pre></div><br><p><strong>What data do you need to make that chart?</strong></p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#75715e># names[[&#39;name&#39;],[&#39;year&#39;]] vs. names.query()</span>
 
 kobe <span style=color:#f92672>=</span> names<span style=color:#f92672>.</span>query(<span style=color:#e6db74>&#34;name == &#39;Kobe&#39;&#34;</span>)[[<span style=color:#e6db74>&#34;name&#34;</span>, <span style=color:#e6db74>&#34;year&#34;</span>, <span style=color:#e6db74>&#34;Total&#34;</span>]]
