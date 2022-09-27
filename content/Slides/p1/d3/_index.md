@@ -14,10 +14,8 @@ keywords: [""]
 
 ## Reminder about resources
 
-- Download Slack
 - "Potluck" prep assignment
 - Make your own cheat sheet
-- Project 0 Summary
 
 <br>
 
