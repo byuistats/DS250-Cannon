@@ -15,6 +15,7 @@ keywords: [""]
 #### Reminder about resources
 
 - "Potluck" prep assignment
+- Work with peers
 - Make your own cheat sheet
 
 #### Anouncements
