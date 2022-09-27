@@ -14,10 +14,9 @@ keywords: [""]
 
 #### Announcements
 
-1. Don't forget to submit a halfway checkpoint even if you're behind!
-  * Think of it as a check in with me
-  * It's the only hard due date
-
+1. Always submit a halfway checkpoint even if you're behind!
+    * It's the only hard due date
+    * Think of it as a check in with "the boss"
 
 ##### Thoughts on P1 Halfway Checkpoint
 
