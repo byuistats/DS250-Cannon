@@ -59,6 +59,9 @@ names.describe()
 alt.Chart()
    .mark_*()
    .encode()
+
+# alt.Chart().encode()
+   
 ```
 
 <br>
