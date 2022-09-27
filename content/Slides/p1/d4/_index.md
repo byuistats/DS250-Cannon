@@ -14,14 +14,7 @@ keywords: [""]
 
 #### Announcements
 
-1. Always submit a halfway checkpoint even if you're behind!
-    * It's the only hard due date
-    * Think of it as a check in with "the boss"
 
-##### Thoughts on P1 Halfway Checkpoint
-
-1. Do your work in .py or .ipynb file, write-up in .qmd
-2. Making/submitting a video:  [Loom](https://www.loom.com/)
 
 <br>
 
