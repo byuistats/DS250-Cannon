@@ -15,7 +15,7 @@ keywords: [""]
 #### Reminder about resources
 
 - "Potluck" prep assignment
-- Make your own cheat sheet\
+- Make your own cheat sheet
 
 #### Anouncements
 
@@ -32,8 +32,6 @@ keywords: [""]
 <br>
 
 ## Let's practice!
-
-#### Goal: With your neighbor, make a chart that compares the popularity of your two names over time.
 
 **Explore the data**
 
@@ -93,6 +91,14 @@ kobe2 = names.query("name == 'Kobe'").filter(items=["name", "year", "Total"])
 <br>
 
 **What can you add to your chart to help tell a story?**
+
+{{< faq "Can you modify your previous chart to include your birth state?">}}
+
+- Can you include `Total` and your birth state?
+- Is there a better metric than raw counts that you could calculate?
+- Are there good labels that you could include on the chart ([`mark_text()`](https://altair-viz.github.io/gallery/bar_chart_with_labels.html#gallery-bar-chart-with-labels))?
+
+{{</ faq >}}
 
 Remember this advice [from Edward Tufte](https://medium.com/@AnyChart/advices-by-edward-tufte-importance-of-context-for-charts-819396300255).
 
