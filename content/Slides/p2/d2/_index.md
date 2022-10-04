@@ -14,7 +14,9 @@ keywords: [""]
 
 #### Announcements
 
-1. Code chunk options:  #| warning:  false
+1. Code chunk options:  
+    * Locally:  #| warning:  false
+    * Globally:  in the YAML:  execute: warning: false
 2. Something to be said for consistency (in graphs)...and variation
 3. Slack me when you resubmit a project
 
