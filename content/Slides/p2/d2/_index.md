@@ -10,11 +10,13 @@ keywords: [""]
 
 ## Welcome to class!
 
-#### Gratitude Journal
+#### Spiritual Thought
 
 #### Announcements
 
-You need to have Slack open today!
+1. Code chunk options:  #| warning:  false
+2. Something to be said for consistency (in graphs)...and variation
+3. Slack me when you resubmit a project
 
 <br>
 
