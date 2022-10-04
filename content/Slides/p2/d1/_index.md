@@ -10,7 +10,18 @@ keywords: [""]
 
 ## Welcome to class!
 
-#### Announcements
+### How about General Conference?
+
+### Short
+
+[Link](https://youtu.be/qol2X_8JF9I)
+
+### Project 1 Comments
+
+1. Don't include data as a table.  Only include tables that add useful information.  If I have to scroll up and down it isn't useful.
+2. Reports should be readable by an intelligent, but non-technical audience
+3. Make it like something you'd like to read
+
 
 <br>
 
