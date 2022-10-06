@@ -82,22 +82,26 @@ With your group, research these functions and create an example using the `cars`
 
 You can use the [Data Transformation textbook chapter](https://byuidatascience.github.io/python4ds/transform.html) and the [pandas documentation](https://pandas.pydata.org/docs/) to help you.
 
-#####  Working with rows
+### Recreate the following output to the best of your abilities: 
+
+[LINK](https://github.com/byuistats/DS250-Cannon/blob/master/content/Slides/p2/d2/cars.html)
+
+#####  Group 1:  Working with rows
 
 - `.query()` allows you to subset observations (rows)
 - `.sort_values()` arranges rows in a particular order
 
-#####  Working with columns
+#####  Group 2:  Working with columns
 
 - `.filter()` (as well as `[]` and `.loc[]`) allow you to select columns
 - `.assign()` is one way to add new columns to a dataframe
 
-#####  Counting items
+#####  Group 3:  Counting items
 
 - `.value_counts()` summarizes a column by counting the values inside
 - `.crosstab()` creates a "cross tabulation" of two or more variables
 
-#####  Summarizing data
+#####  Group 4:  Summarizing data
 
 - Using `.groupby()` and `.agg()` together allows you to calculate group summaries
 
