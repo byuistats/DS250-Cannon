@@ -149,36 +149,6 @@ What is our goal? How can we get there?
 What is our goal? How can we get there?
 --------------------------------------------------->
 
-# API's and JSON: A Primer
-
-## Application Programming Interfaces (APIs)
-
-#### Representational State Transfer (REST APIs)
-
-> Over the course of the ’00s, another Web services technology, called __Representational State Transfer, or REST__, began to overtake [all other tools] for the purpose of transferring data. One of the big advantages of programming using REST APIs is that you can use multiple data formats — not just XML, but JSON and HTML as well. As web developers came to prefer JSON over XML, so too did they come to favor REST over SOAP. As Kostyantyn Kharchenko put it on the Svitla blog, “In many ways, the success of REST is due to the JSON format because of its easy use on various platforms.”   
-> Today, JSON is the de-facto standard for exchanging data between web and mobile clients and back-end services. [ref](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html)
-
-<br>
-
-#### JavaScript Object Notation
-
-> Well, when you’re writing frontend code in Javascript, getting JSON data back makes it easier to load that data into an __object tree__ and work with it. And JSON formats data in a more __succinct way__, which saves bandwidth and improves response times when sending messages back and forth to a server.    
-> In a world of APIs, cloud computing, and ever-growing data, JSON has a big role to play in greasing the wheels of a modern, open web. [ref](https://blog.sqlizer.io/posts/json-history/)
-
-<br>
-
-#### Other Resources
-
-- [RESTful APIs in 100 Seconds (video)](https://www.youtube.com/watch?v=-MTSQjw5DrM)
-- [Python API Tutorial: Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)
-- [Big List of Free and Open Public APIs (No Auth Needed)](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
-
-
-<br>
-
-<br>
-
-<br>
 
 ## Project 2 FAQs
 
@@ -230,6 +200,40 @@ What if you want to create a new column, whose values depend on another column? 
 We will learn how to identify and deal with missing data next week. For now, we can drop rows we don't want using square brackets `[]` or `.query()`.
 
 {{</ faq >}}
+
+
+
+# API's and JSON: A Primer
+
+## Application Programming Interfaces (APIs)
+
+#### Representational State Transfer (REST APIs)
+
+> Over the course of the ’00s, another Web services technology, called __Representational State Transfer, or REST__, began to overtake [all other tools] for the purpose of transferring data. One of the big advantages of programming using REST APIs is that you can use multiple data formats — not just XML, but JSON and HTML as well. As web developers came to prefer JSON over XML, so too did they come to favor REST over SOAP. As Kostyantyn Kharchenko put it on the Svitla blog, “In many ways, the success of REST is due to the JSON format because of its easy use on various platforms.”   
+> Today, JSON is the de-facto standard for exchanging data between web and mobile clients and back-end services. [ref](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html)
+
+<br>
+
+#### JavaScript Object Notation
+
+> Well, when you’re writing frontend code in Javascript, getting JSON data back makes it easier to load that data into an __object tree__ and work with it. And JSON formats data in a more __succinct way__, which saves bandwidth and improves response times when sending messages back and forth to a server.    
+> In a world of APIs, cloud computing, and ever-growing data, JSON has a big role to play in greasing the wheels of a modern, open web. [ref](https://blog.sqlizer.io/posts/json-history/)
+
+<br>
+
+#### Other Resources
+
+- [RESTful APIs in 100 Seconds (video)](https://www.youtube.com/watch?v=-MTSQjw5DrM)
+- [Python API Tutorial: Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)
+- [Big List of Free and Open Public APIs (No Auth Needed)](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
+
+
+<br>
+
+<br>
+
+<br>
+
 
 
 
