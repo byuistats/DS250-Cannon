@@ -84,7 +84,7 @@ You can use the [Data Transformation textbook chapter](https://byuidatascience.g
 
 ### Recreate the following output to the best of your abilities: 
 
-[LINK](http://htmlpreview.github.com/byuistats/DS250-Cannon/blob/master/content/Slides/p2/d2/cars.html)
+[LINK](https://htmlpreview.github.io/?https://github.com/byuistats/DS250-Cannon/blob/master/content/Slides/p2/d2/cars.html)
 
 #####  Group 1:  Working with rows
 
