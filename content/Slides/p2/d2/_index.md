@@ -82,22 +82,22 @@ With your group, research these functions and create an example using the `cars`
 
 You can use the [Data Transformation textbook chapter](https://byuidatascience.github.io/python4ds/transform.html) and the [pandas documentation](https://pandas.pydata.org/docs/) to help you.
 
-##### Group 1 - Working with rows
+#####  Working with rows
 
 - `.query()` allows you to subset observations (rows)
 - `.sort_values()` arranges rows in a particular order
 
-##### Group 2 - Working with columns
+#####  Working with columns
 
 - `.filter()` (as well as `[]` and `.loc[]`) allow you to select columns
 - `.assign()` is one way to add new columns to a dataframe
 
-##### Group 3 - Counting items
+#####  Counting items
 
 - `.value_counts()` summarizes a column by counting the values inside
 - `.crosstab()` creates a "cross tabulation" of two or more variables
 
-##### Group 4 - Summarizing data
+#####  Summarizing data
 
 - Using `.groupby()` and `.agg()` together allows you to calculate group summaries
 
@@ -148,7 +148,9 @@ What is our goal? How can we get there?
 
 What is our goal? How can we get there?
 --------------------------------------------------->
-<!-----------------------------------------------------------------------
+
+# API's and JSON: A Primer
+
 ## Application Programming Interfaces (APIs)
 
 #### Representational State Transfer (REST APIs)
@@ -170,7 +172,7 @@ What is our goal? How can we get there?
 - [RESTful APIs in 100 Seconds (video)](https://www.youtube.com/watch?v=-MTSQjw5DrM)
 - [Python API Tutorial: Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)
 - [Big List of Free and Open Public APIs (No Auth Needed)](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
------------------------------------------------------------->
+
 
 <br>
 
