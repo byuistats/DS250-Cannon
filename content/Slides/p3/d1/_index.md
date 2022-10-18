@@ -14,11 +14,15 @@ keywords: [""]
 
 #### Announcements
 
-1. Project 2 Highlights
-2. Project 2 comments
-  * Clean up graphs (main titles, axis labels, legends)
+1. October 28 [Analytics Day Signup](https://click.mlsend.com/link/c/YT0yMDY0MDEwOTk5MTUyNzc4MTE3JmM9cjNrMSZlPTAmYj0xMDMwNDQ2OTYyJmQ9bzNsNHAzbg==.-D69zI3x2aJv4UP136g4qgh9tuqit4MLH96FiAX1hK0)
+2. Project 2 Highlights
+3. Project 2 comments
   * Turn them in
-3. Coding Challenge - Thursday June 2
+  * Clean up graphs (main titles, axis labels, legends)
+  * Column headers on tables in your report (don't include index number either)
+  * Technically Proportion of all flights delayed by weather, not the proportion of delayed flights
+  * JSON should look like a text example of a record, not a table
+4. Coding Challenge - Thursday, October 27
 
 <br>
 
