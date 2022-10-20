@@ -27,7 +27,7 @@ __Connection Instructions:__ [See SQL for Data Science](../../course-materials/s
 #### Optional References
 
 - [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
-- [Lahman Data Dictionary](https://data.world/byuidss/cse-250-baseball-database/workspace/file?filename=readme2014.txt)
+- [Lahman Data Dictionary](https://www.seanlahman.com/files/database/readme2017.txt)
 
 
 ### Questions and Tasks
