@@ -14,6 +14,8 @@ keywords: [""]
 
 #### Announcements
 
+1. Project 3 - SQL practice
+
 <br>
 
 ## Class Activity in Slack
