@@ -15,13 +15,23 @@ keywords: [""]
 #### Announcements
 
 1. Practice Coding Challenge
-* What would your coding challenge look like?
+    * What would your coding challenge look like?
 2. Can I still get an "A"?
-* Profile of an "A" student
-* What if I fall behind? 
+    * Profile of an "A" student
+    * What if I fall behind? 
 4. Reminders:
-* DS community assignment
-* Review and Request Letter
+    * DS community assignment
+    * Review and Request Letter
+
+#### Coding Challenge:
+
+How do I prepare?
+What would your coding challenge look like?
+
+#### Project 3 Questions
+
+Where are you stuck?
+What have come up with for Q3?  Metrics? Visualizations? 
 
 <br>
 
