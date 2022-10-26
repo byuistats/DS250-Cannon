@@ -51,8 +51,8 @@ training, but this is universal:  Communicating technical results so that non-te
 
 ## Announcements
 
-1. Pizza opening social for BioStats, DataSci, MathEd/Comp, and MathSci majors and faculty this Thursday, 9/15, 11:30AM in RKS 229 
-1. Computing Lab  4:30PM - 6:30PM all weekdays except Wednesday (no lab). Saturday from 10AM-12PM
+1. Computing Lab  4:30PM - 6:30PM all weekdays except Wednesday. Saturday from 10AM-12PM
+    * Slack channel #tutoring_lab
 1. Data Science Society - Wednesday's at 6PM
 
 ## What is a Data Scientist?
@@ -86,7 +86,7 @@ Open syllabus
 2. Improved coding skills
 3. Effective written/visual communication
 4. Collaboration
-5. Timeliness and communication with the boss
+5. Timeliness and communication with "the boss"
 
 [Syllabus](https://byuistats.github.io/DS250-Cannon/course-materials/syllabus/)
 
