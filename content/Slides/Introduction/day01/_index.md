@@ -45,7 +45,7 @@ training, but this is universal:  Communicating technical results so that non-te
 -------------------->
 
 - Teacher: Paul Cannon
-- TA: :(
+- TA: James and Ray
 
 <br>
 
@@ -139,7 +139,7 @@ Now that you're in groups, put your heads together and tell me how you might go 
 
 Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/).
 
-The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altair`, `altair-saver`, `numpy`, and `jupyter`.
+The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altair`, `numpy`, and `jupyter`.
 
 The readings will also mention two VS Code extensions you need to install.
 
