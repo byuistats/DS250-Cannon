@@ -109,7 +109,6 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 1. Introduce yourself and learn the names/majors/origin story of your group members.
 1. Make a plan to get help this semester. How will you contact each other? Some ideas: Slack, I-Learn, emails, group texts, etc.
 1. If you were independently wealthy, what would you be doing right now?  Would you change majors?
-1. Why are you here?
 
 ## Problem Solve
 
