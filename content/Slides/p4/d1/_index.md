@@ -11,9 +11,15 @@ keywords: [""]
 ## Welcome to class!
 
 #### Announcements
-1. Project 3
+1. Project 3 - Getting pickier about good communication
+    * Meaningful report name (Drop "Client Report")
+    * Meaningful section headers so the table of contents is useful (don't call them "Grand Questions")
+    * Don't include "My useless chart" from the template
 2. Coding Challenge - Table
-3. 
+3. Ask for help!
+    * Computing lab
+    * Computing lab Slack channel (search)
+    * Slack classmates or general channel 
 
 #### Spiritual Thought
 
