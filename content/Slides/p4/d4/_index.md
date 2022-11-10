@@ -42,7 +42,7 @@ metrics.plot_confusion_matrix(classifier_DT, x_test, y_test)
 
 #### Your Turn
 
-**With your group, use the links above to find a definition for your assigned metric. Then try using the confusion matrix on the screen to calculate your metric for Sister Larson's model.**
+**With your group, use the links above to find a definition for your assigned metric. Then try using the confusion matrix on the screen to calculate your metric for your model.**
 
 - Group 1: Accuracy
 - Group 2: Sensitivity/Recall 
