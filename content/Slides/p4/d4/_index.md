@@ -8,7 +8,14 @@ draft: false
 keywords: [""]
 ---
 
-## Evaluating model performance
+# Announcements
+
+## Today:
+
+1. Continue discussion about evaluating models
+2. Try to understand what are models are doing
+
+## Evaluating model performance cont
 
 #### Confusion Matrix
 
@@ -42,7 +49,7 @@ metrics.plot_confusion_matrix(classifier_DT, x_test, y_test)
 
 #### Your Turn
 
-**With your group, use the links above to find a definition for your assigned metric. Then try using the confusion matrix on the screen to calculate your metric for your model.**
+**With your group, use the links above to find a definition for your assigned metric. Then try using the confusion matrix on the screen to calculate your metric for my model.**
 
 - Group 1: Accuracy
 - Group 2: Sensitivity/Recall 
