@@ -14,42 +14,16 @@ keywords: [""]
 
 #### Announcements
 
-1. October 28 [Analytics Day Signup](https://click.mlsend.com/link/c/YT0yMDY0MDEwOTk5MTUyNzc4MTE3JmM9cjNrMSZlPTAmYj0xMDMwNDQ2OTYyJmQ9bzNsNHAzbg==.-D69zI3x2aJv4UP136g4qgh9tuqit4MLH96FiAX1hK0)
-2. Project 2 Highlights
-3. Project 2 comments
+1. Project 2 Highlights
+2. Project 2 comments
   * Turn them in
   * Clean up graphs (main titles, axis labels, legends)
   * Column headers on tables in your report (don't include index number either)
   * Technically Proportion of all flights delayed by weather, not the proportion of delayed flights
   * JSON should look like a text example of a record, not a table
-4. Coding Challenge - Thursday, October 27
 
 <br>
 
-<!-------------
-![](https://imgs.xkcd.com/comics/so_bad_its_worse.png)
-
-## My history with SQL and NoSQL
-
-> 1. In 2005 I started work at Pacific Northwest National Laboratory, having a master's in statistics completed and never having seen the SQL language.
-> 2. In late 2005, I had to pull data from a SQL database for use in R related to our airline network.  It wasn't fun building a tidy table from a SQL database with no background in SQL. I am on the team that wins the [R&D 100 Award](https://www.pnnl.gov/about/rd100awards.asp). 
-> 3. In 2012 Ryan Hafen and Jeremiah Rounds introduced me to Hadoop and the concept of [key-value databases](https://aws.amazon.com/nosql/key-value/), and I am enamored. 
-> 4. From 2013 - 2015, I am in deep with Hadoop, using it to answer climate science problems using data well over terabytes in size.
-> 5. I start developing the data science degree in 2016 with Scott Burton and Brent Morring, and I wonder if SQL is needed in the program. Upon researching, I realize that SQL as a language is having a resurgence regardless of the back-end database.
-> 6. In 2017 we used CIT 111 and CIT 225 in the DS program to give students a SQL background.  
-> 7. In 2020 we introduce CSE 250 and CSE 451 to provide DS students more access to the SQL language for data science applications.
-
-#### [Google's influence on Big Data](https://medium.com/@garyorenstein/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)
-
-__Big Data timeline__   
-
-> 1. 2004 Paper on MapReduce released by Google
-> 2. 2012 Hadoop 1.0 released for use.
-> 3. 2017 Hadoop hype has come and gone.
-> 4. Beyond 2017 the rise of new scalable databases that embrace SQL.
-
-![](https://blog.timescale.com/content/images/2018/12/image-112.png)
---------------->
 
 ## What is Structured Query Language (SQL)?
 
