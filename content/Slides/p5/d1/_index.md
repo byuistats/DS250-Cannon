@@ -30,7 +30,7 @@ keywords: [""]
 
 **Take the time to understand how the current data is organized.**
 
-#### Start with...Excel? 
+#### First things first...
 
 Each group should answer these questions:
 
