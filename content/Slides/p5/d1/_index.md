@@ -26,7 +26,7 @@ keywords: [""]
 
 ## The Star Wars data
 
-### What does the data look like?
+### What do the data look like?
 
 **Take the time to understand how the current data is organized.**
 
