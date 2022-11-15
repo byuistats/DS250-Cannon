@@ -15,13 +15,12 @@ keywords: [""]
 #### Announcements
 1. Project 4 thoughts
     * Feature Importances - Sorted Bar Graph, not unsorted tables
+    * Suppress warnings
+    * Some submissions are a single long string, not a rendered document
+    * And the winner is...
 2. Midterm class survey
-    * 28 Respondents so far
-    * Trends:
-        * Like 2-week structure
-        * Like group work, more time in class to work on projects
-        * Too much reading/more direction on reading
-        * Better classtime management/class structure
+    * Need more data
+
 
 <br>
 
@@ -30,6 +29,8 @@ keywords: [""]
 ### What does the data look like?
 
 **Take the time to understand how the current data is organized.**
+
+#### Start with...Excel? 
 
 Each group should answer these questions:
 
