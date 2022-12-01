@@ -9,7 +9,6 @@ keywords: [""]
 ---
 
 ## Welcome to class!
-#### Gratitude Journal
 #### Announcements
 
 <br>
