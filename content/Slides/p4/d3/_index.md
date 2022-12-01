@@ -140,6 +140,9 @@ Problem 2 is looking for a model that has "at least 90% accuracy".
 
 ##### Confusion Matrix
 
+![alt text](confusion_matrix.png)
+
+
 A confusion matrix is a quick way to see the strengths and weaknesses of your model. __A confusion matrix is not a "metric".__ A confusion matrix provides an easy way to calculate multiple metrics such as accuracy, precision, and recall.
 
 **Your turn:** Look at the confusion matrix for our Decison Tree model. Where the model is doing well and where it might be falling short?
