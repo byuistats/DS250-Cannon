@@ -3,7 +3,7 @@ title: "Day 1: Git and Github"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 3
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -12,9 +12,9 @@ keywords: [""]
 
 #### Spiritual Thought
 #### Announcements
-1. The last day of DSS is July 13th at 6:00PM in STC 398
+1. The last day of DSS is next Wednesday, Dec 7th at 6:00PM in STC 398
 1. Extra credit for creating and uploading cheat sheet (2 points for projects or checkpoints)
-1. Coding Challenge is July 19
+1. Coding Challenge date?  
 
 1. The technical aspects of Project 6 will be done mostly in class. Resume prep/MD outside
 
