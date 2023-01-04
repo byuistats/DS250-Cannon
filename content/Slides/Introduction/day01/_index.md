@@ -18,7 +18,7 @@ This class is fundamentally about solving problems.  Solving problems with your 
 you'll have a ton of experience solving problems.  And even if you go on to never code again, you will have learned how to be better problem solvers.  That'll
 stick with you whether you're an accountant or a web designer.  
 
-It's a learned skill.  You have to know where to look, when to ask for help, how to collaborate.
+It's a learned skill.  You have to know where to look, when to ask for help, how to collaborate.  
 
 It's going to suck until you get to the point where you know how to Google things the best way, how to distinguish between helpful and useless info.
 
@@ -51,7 +51,7 @@ training, but this is universal:  Communicating technical results so that non-te
 
 ## Announcements
 
-1. Computing Lab  4:30PM - 6:30PM all weekdays except Wednesday. Saturday from 10AM-12PM
+1. [Computing Lab](https://byuidatascience.github.io/lab/)  4:30PM - 6:30PM all weekdays except Wednesday. Saturday from 10AM-12PM
     * Slack channel #tutoring_lab
 1. Data Science Society - Wednesday's at 6PM
 
@@ -109,13 +109,17 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 1. Introduce yourself and learn the names/majors/origin story of your group members.
 1. Make a plan to get help this semester. How will you contact each other? Some ideas: Slack, I-Learn, emails, group texts, etc.
 1. If you were independently wealthy, what would you be doing right now?  Would you change majors?
+1. Highlights of 2022
 
-## Problem Solve
+## Problem Solving
+
+This is not a "see and repeat" programming class!  
+
+### How would you go about fixing my motorcycle?
 
 ![](PXL_20221015_211101230.jpg)
 
-How would you go about fixing my motorcycle?
-
+#### Learn how to ask for help (1 hr rule)
 
 <br>
 
@@ -131,6 +135,8 @@ How would you go about fixing my motorcycle?
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/)
 1. Download [Python](https://www.python.org/downloads/) v [(3.10.8)](https://www.python.org/downloads/release/python-3108/)
+    * Be sure to select the *"Add to Path"* option during the install process
+    * ![](image.png)
 1. Install the Python packages and VS Code extensions you need (see [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/))
 1. Install Quarto CLI [Quatro Instructions](https://byuistats.github.io/DS250-Cannon/course-materials/quarto-for-data-science/)
 1. Start looking at Project 0
