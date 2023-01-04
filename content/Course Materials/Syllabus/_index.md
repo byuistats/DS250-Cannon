@@ -8,20 +8,20 @@ draft: false
 keywords: [""]
 ---
 
-> Most people would sooner die than think, and most of them do.    
-> [-Bertrand Russell-](https://www.goodreads.com/work/quotes/1200871-the-abc-of-relativity)
+> Why is a raven like a writing desk?    
+> [-Lewis Carroll-](https://www.writerswrite.com/why-raven-like-writing-desk-121520171)
 
 ### Contact Information
 
 Instructor Name:  Paul Cannon
 Email:  cannonp@byui.edu
 Phone: (208) 496-7565
-Student hours:  Ricks 216, Mon/Wed 2:00-4:30
+Student hours:  Ricks 216, TBD
 Calendly:  https://calendly.com/paulccannon
 
 ### Overview
 
-This course provides a better understanding of data programming.  If you have signed up for this class, you are most likely driven by curiosity and interested in how data decisions are made (sometimes called data intuition).  Possibly, you have a more empathetic approach to how the world works and how problems can be solved.  Finally, you have an eye for how society reports and uses data to make impactful decisions.[^1].
+This course provides a better understanding of data programming.  If you have signed up for this class, you are most likely driven by curiosity and interested in how data decisions are made.  Possibly, you have a more empathetic approach to how the world works and how problems can be solved.  Finally, you have an eye for how society reports and uses data to make impactful decisions.[^1].
 
 Upon completing this course, you will be able to use data-driven programming in Python to handle, format, and visualize data.  We will introduce you to data wrangling techniques, analytical methods, and the grammar of graphics. Specifically, as a successful learner, you will be able to;
 
