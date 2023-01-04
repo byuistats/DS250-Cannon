@@ -114,7 +114,7 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 
 ![](PXL_20221015_211101230.jpg)
 
-Now that you're in groups, put your heads together and tell me how you might go about fixing my motorcycle:
+How would you go about fixing my motorcycle?
 
 
 <br>
