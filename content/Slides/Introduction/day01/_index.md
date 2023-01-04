@@ -130,7 +130,7 @@ How would you go about fixing my motorcycle?
 #### Setting up your Programming Snvironment
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/)
-1. Download [Python](https://www.python.org/downloads/) [3.10.8](https://www.python.org/downloads/release/python-3108/)
+1. Download [Python](https://www.python.org/downloads/) v [(3.10.8)](https://www.python.org/downloads/release/python-3108/)
 1. Install the Python packages and VS Code extensions you need (see [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/))
 1. Install Quarto CLI [Quatro Instructions](https://byuistats.github.io/DS250-Cannon/course-materials/quarto-for-data-science/)
 1. Start looking at Project 0
