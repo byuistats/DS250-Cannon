@@ -45,7 +45,7 @@ training, but this is universal:  Communicating technical results so that non-te
 -------------------->
 
 - Teacher: Paul Cannon
-- TA: James and Ray
+- TA: ???
 
 <br>
 
@@ -111,6 +111,8 @@ Follow the Slack invitation that is waiting in your student email. If you don't 
 1. If you were independently wealthy, what would you be doing right now?  Would you change majors?
 
 ## Problem Solve
+
+![](PXL_20221015_211101230.jpg)
 
 Now that you're in groups, put your heads together and tell me how you might go about fixing my motorcycle:
 
