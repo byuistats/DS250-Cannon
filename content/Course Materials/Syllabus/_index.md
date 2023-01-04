@@ -10,7 +10,7 @@ keywords: [""]
 
 > Why is a raven like a writing desk?    
 > [-Lewis Carroll-](https://www.writerswrite.com/why-raven-like-writing-desk-121520171)
-> [-The Internet Responds-](https://www.theguardian.com/global/2015/dec/29/weekly-notes-queries-carroll-raven-desk#:~:text=The%20answer%20lies%20in%20the,can%20never%20truly%20be%20captive.&text=Ravens%20and%20writing%20desks%20are,like%20playing%20tricks%20on%20humans.&text=Because%20outstanding%20bills%20are%20found%20on%20both%20of%20them.)
+[-The Internet Responds-](https://www.theguardian.com/global/2015/dec/29/weekly-notes-queries-carroll-raven-desk#:~:text=The%20answer%20lies%20in%20the,can%20never%20truly%20be%20captive.&text=Ravens%20and%20writing%20desks%20are,like%20playing%20tricks%20on%20humans.&text=Because%20outstanding%20bills%20are%20found%20on%20both%20of%20them.)
 
 ### Contact Information
 
