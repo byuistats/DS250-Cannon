@@ -20,7 +20,8 @@ keywords: [""]
 
 #### Anouncements
 
-1. Always submit a halfway checkpoint even if you're behind!
+1. Resume Workshop:  5:00-6:00 Tonight (Wed 1/18) STC 375
+2. Always submit a halfway checkpoint even if you're behind!
     * It's the only hard due date
     * Think of it as a check in with "the boss"
 
@@ -28,6 +29,7 @@ keywords: [""]
 
 1. Do your work in .py or .ipynb file, write-up in .qmd
 2. Making/submitting a video:  [Loom](https://www.loom.com/)
+3. alt.Save() not needed with Quarto
 
 
 <br>
