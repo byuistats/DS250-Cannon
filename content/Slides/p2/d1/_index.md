@@ -22,6 +22,7 @@ keywords: [""]
 2. Reports should be readable by an intelligent, but non-technical audience (Meaningful titles and section names)
 3. Make it like something you'd like to read 
 4. Clean out any code output, logs, that distract from the message ("My Useless Chart")
+5. Eliminate "warnings"
 
 
 <br>
