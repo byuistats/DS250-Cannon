@@ -21,7 +21,7 @@ keywords: [""]
 1. Don't include data as a table.  Only include tables that add useful information.  If I have to scroll up and down it isn't useful.
 2. Reports should be readable by an intelligent, but non-technical audience (Meaningful titles and section names)
 3. Make it like something you'd like to read 
-4. Clean out any code output, logs, that distract from the message
+4. Clean out any code output, logs, that distract from the message ("My Useless Chart")
 
 
 <br>
