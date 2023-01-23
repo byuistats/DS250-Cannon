@@ -10,7 +10,7 @@ keywords: [""]
 
 ## Welcome to class!
 
-### How about General Conference?
+### Spiritual Thought
 
 ### Short
 
