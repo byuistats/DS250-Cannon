@@ -3,7 +3,7 @@ title: "Day 2: Transforming Data"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 3
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -15,12 +15,17 @@ keywords: [""]
 #### Announcements
 
 1. Code chunk options:  
-    * Locally:  #| warning:  false
-    * Globally:  in the YAML:  execute: warning: false
-2. Something to be said for consistency (in graphs)...and variation
-3. Slack me when you resubmit a project
+    * Locally using 
+        #| warning:  false
+    * Globally in the YAML using
+          execute: 
+            warning: false
 
 <br>
+
+## Flights Data Issues:
+
+What are some of the data issues you discovered while getting to know your data?
 
 ## Loading JSON files into pandas
 
