@@ -20,5 +20,18 @@ con <span style=color:#f92672>=</span> sqlite3<span style=color:#f92672>.</span>
 
 df <span style=color:#f92672>=</span> pd<span style=color:#f92672>.</span>read_sql_query(<span style=color:#e6db74>&#34;SELECT * FROM fielding LIMIT 5&#34;</span>, con)
 df
+</code></pre></div><p>How can we see what tables are in the database?</p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#f92672>import</span> pandas <span style=color:#f92672>as</span> pd
+<span style=color:#f92672>import</span> sqlite3
+
+con <span style=color:#f92672>=</span> sqlite3<span style=color:#f92672>.</span>connect(<span style=color:#e6db74>&#39;lahmansbaseballdb.sqlite&#39;</span>)
+
+pd<span style=color:#f92672>.</span>read_sql_query(<span style=color:#e6db74>&#34;&#34;&#34;
+</span><span style=color:#e6db74>
+</span><span style=color:#e6db74>SELECT name 
+</span><span style=color:#e6db74>FROM sqlite_master 
+</span><span style=color:#e6db74>WHERE type=&#39;table&#39;
+</span><span style=color:#e6db74>
+</span><span style=color:#e6db74>&#34;&#34;&#34;</span>, con)
+
 </code></pre></div><br><h2 id=understanding-sql-queries>Understanding SQL queries</h2><p>Make sure you do the project readings!</p></div><p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 12 Oct 2020</p><nav class="pagination mt-3"><a class="nav nav-prev" href=https://byuistats.github.io/DS250-Cannon/slides/p3/><i class="ti-arrow-left mr-2"></i><span class="d-none d-md-block">Week 6-7: Project 3 - Baseball</span></a>
 <a class="nav nav-next" href=https://byuistats.github.io/DS250-Cannon/slides/p2/><span class="d-none d-md-block">Week 4-5: Project 2 - Flights</span><i class="ti-arrow-right ml-2"></i></a></nav></div></div></div></div></section><footer class="section pb-4"><div class=container><div class="row align-items-center"><div class="col-md-8 text-md-left text-center"><p class="mb-md-0 mb-4">J. Hathaway and BYU-I ©</p></div><div class="col-md-4 text-md-right text-center"><ul class=list-inline><li class=list-inline-item><a class="text-color d-inline-block p-2" href=https://github.com/byuidatascience><i class=ti-github></i></a></li><li class=list-inline-item><a class="text-color d-inline-block p-2" href=https://www.linkedin.com/groups/13537407/><i class=ti-linkedin></i></a></li></ul></div></div></div></footer><script src=https://byuistats.github.io/DS250-Cannon/js/script.min.js></script></body></html>
