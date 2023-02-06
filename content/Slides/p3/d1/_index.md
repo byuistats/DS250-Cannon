@@ -130,6 +130,23 @@ df = pd.read_sql_query("SELECT * FROM fielding LIMIT 5", con)
 df
 ```
 
+How can we see what tables are in the database?
+
+```python
+import pandas as pd
+import sqlite3
+
+con = sqlite3.connect('lahmansbaseballdb.sqlite')
+
+pd.read_sql_query("""
+
+SELECT name 
+FROM sqlite_master 
+WHERE type='table'
+
+""", con)
+
+```
 
 <!---------------------------
 ### Let's make the connection
