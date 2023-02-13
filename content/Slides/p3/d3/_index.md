@@ -3,7 +3,7 @@ title: "Day 3: The end of baseball"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -15,7 +15,6 @@ keywords: [""]
 #### Announcements
 
 1. Practice Coding Challenge
-    * What would your coding challenge look like?
 2. Can I still get an "A"?
     * Profile of an "A" student
     * What if I fall behind? 
@@ -30,8 +29,9 @@ What would your coding challenge look like?
 
 #### Project 3 Questions
 
-Where are you stuck?
-What have come up with for Q3?  Metrics? Visualizations? 
+1. Integer Division
+2. Career Batting Average
+3. What have come up with for Q3?  Metrics? Visualizations? 
 
 <br>
 
