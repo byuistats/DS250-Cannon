@@ -34,15 +34,17 @@ keywords: [""]
 <br>
 
 
-## A Cautionary Tale
+## Pictionary
 
+
+<!--
 ![Forest](forest_no_tank.png)
 
 ![Tank](tank.png)
 
 ## Machine Learning: Recognizing Patterns
 
-<!-- https://www.microsoft.com/en-us/videoplayer/embed/RE4xAok?pid=RE4xAok-ax-85-id-oneplayer&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false -->
+ https://www.microsoft.com/en-us/videoplayer/embed/RE4xAok?pid=RE4xAok-ax-85-id-oneplayer&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false -->
 
 <!---------------------------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/asmXyJaXBC8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
