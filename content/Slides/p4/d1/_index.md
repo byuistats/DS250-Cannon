@@ -28,7 +28,7 @@ keywords: [""]
 ##### What does it mean to be the light of the world? 
 
 <br>
-
+<br>
 
 
 <!--
@@ -45,8 +45,9 @@ keywords: [""]
 <br>
 -->
 
-## Pictionary
+## Pictionary!
 
+<br>
 <br>
 
 <!--
