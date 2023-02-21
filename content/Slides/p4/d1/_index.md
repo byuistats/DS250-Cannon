@@ -23,6 +23,16 @@ keywords: [""]
 
 #### Spiritual Thought
 
+##### What did you learn about the Sermon on the Mount?
+##### What does it mean to be the light of the world? 
+
+<br>
+
+
+
+<!--
+##### Are facts true?  
+
 - How do you distinguish between truth and error?
 - Joshua and Caleb
 
@@ -32,10 +42,11 @@ keywords: [""]
 - How do you receive answers from the Holy Ghost?
 
 <br>
-
+-->
 
 ## Pictionary
 
+<br>
 
 <!--
 ![Forest](forest_no_tank.png)
