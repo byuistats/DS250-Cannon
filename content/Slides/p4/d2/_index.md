@@ -26,10 +26,12 @@ Day 2: Training a Classifier
 
 <br>
 
+<!--
 - What is your testimony built on?
 - How do you receive answers from the Holy Ghost?
 
 <br>
+-->
 
 ## Splitting the Data
 
