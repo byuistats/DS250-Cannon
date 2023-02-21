@@ -17,6 +17,18 @@ Day 2: Training a Classifier
 #### Announcements
 #### Spiritual thought
 
+##### Are facts true?  
+
+<br>
+
+- How do you distinguish between truth and error?
+- Joshua and Caleb
+
+<br>
+
+- What is your testimony built on?
+- How do you receive answers from the Holy Ghost?
+
 <br>
 
 ## Splitting the Data
@@ -24,6 +36,11 @@ Day 2: Training a Classifier
 #### 1. Start with packages and data set
 
 We'll be using some parts of SKLEARN package and the Seaborn package.
+
+```python
+# If you haven't already, install scikit-learn and seaborn
+pip install scikit-learn seaborn
+```
 
 ```python
 from types import GeneratorType
