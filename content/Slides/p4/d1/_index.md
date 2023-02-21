@@ -12,6 +12,7 @@ keywords: [""]
 
 #### Announcements
 1. Project 3 - Getting pickier about good communication
+    * Career batting average
     * Meaningful report name (Drop "Client Report")
     * Meaningful section headers so the table of contents is useful (don't call them "Grand Questions")
     * Don't include "My useless chart" from the template
