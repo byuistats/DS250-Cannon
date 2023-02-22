@@ -192,10 +192,11 @@ The best way around this is to look at a sub-sample of the data for exploratory 
 
 [MaxRowsError: How can I plot Large Datasets?](https://altair-viz.github.io/user_guide/faq.html#maxrowserror-how-can-i-plot-large-datasets)
 
-You may also save data to a local filesystem and reference the data by file path. Altair has a JSON data transformer that will do this transparently when enabled:
+You may also save data to a local filesystem and reference the data by file path. Altair allows you to disable the max rows:
 
 ```python
-alt.data_transformers.enable('json')
+alt.data_transformers.disable_max_rows()
+subset_data = denver.sample(n = 4999)
 ```
 
 {{</ faq >}}
