@@ -19,7 +19,12 @@ keywords: [""]
 
 #### Confusion Matrix
 
+##### Why isn't accuracy enough?
+
 A confusion matrix is a quick way to see the strengths and weaknesses of your model. __A confusion matrix is not a "metric".__ A confusion matrix provides an easy way to calculate multiple metrics such as accuracy, precision, and recall.
+
+![alt text](confusion_matrix.png)
+
 
 ```python
 #%%
