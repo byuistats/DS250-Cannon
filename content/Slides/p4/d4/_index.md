@@ -25,24 +25,6 @@ A confusion matrix is a quick way to see the strengths and weaknesses of your mo
 
 ![alt text](confusion_matrix.png)
 
-
-```python
-#%%
-# a confusion matrix
-print(metrics.confusion_matrix(y_test, y_predicted_DT))
-
-#%%
-# this one might be easier to read
-print(pd.crosstab(y_test.before1980, y_predicted_DT, rownames=['True'], colnames=['Predicted'], margins=True))
-
-#%%
-# visualize a confusion matrix
-# requires '.' to be installed
-metrics.plot_confusion_matrix(classifier_DT, x_test, y_test)
-```
-
-<br>
-
 #### Validation metrics
 
 > - [How to choose a good evaluation metric for your Machine learning model](https://ranvir.xyz/blog/how-to-evaluate-your-machine-learning-model-like-a-pro-metrics/)  
@@ -64,6 +46,24 @@ metrics.plot_confusion_matrix(classifier_DT, x_test, y_test)
 - Group 6: Balanced Accuracy
 
 <br>
+
+```python
+#%%
+# a confusion matrix
+print(metrics.confusion_matrix(y_test, y_predicted_DT))
+
+#%%
+# this one might be easier to read
+print(pd.crosstab(y_test.before1980, y_predicted_DT, rownames=['True'], colnames=['Predicted'], margins=True))
+
+#%%
+# visualize a confusion matrix
+# requires '.' to be installed
+metrics.plot_confusion_matrix(classifier_DT, x_test, y_test)
+```
+
+<br>
+
 
 #### Some python code
 
