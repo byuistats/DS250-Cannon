@@ -25,12 +25,6 @@ A confusion matrix is a quick way to see the strengths and weaknesses of your mo
 
 ![alt text](confusion_matrix.png)
 
-#### Validation metrics
-
-> - [How to choose a good evaluation metric for your Machine learning model](https://ranvir.xyz/blog/how-to-evaluate-your-machine-learning-model-like-a-pro-metrics/)  
-> - [Confustion Matrix Example](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
-)
-> - [Classification Metrics in scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics)
 
 <br>
 
@@ -38,12 +32,20 @@ A confusion matrix is a quick way to see the strengths and weaknesses of your mo
 
 **With your group, use the links above to find a definition for your assigned metric. Then try using the confusion matrix on the screen to calculate your metric for my model.**
 
-- Group 1: Accuracy
+- ~~Group 1: Accuracy~~
 - Group 2: Sensitivity/Recall 
 - Group 3: Precision
 - Group 4: Specificity
 - Group 5: F1 Score
-- Group 6: Balanced Accuracy
+- ~~Group 6: Balanced Accuracy~~
+
+#### Validation metrics
+
+> - [How to choose a good evaluation metric for your Machine learning model](https://ranvir.xyz/blog/how-to-evaluate-your-machine-learning-model-like-a-pro-metrics/)  
+> - [Confustion Matrix Example](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+)
+> - [Classification Metrics in scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics)
+
 
 <br>
 
