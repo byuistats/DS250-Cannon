@@ -23,6 +23,23 @@ keywords: [""]
 
 ## The Star Wars data
 
+## Load the Star Wars data
+
+### What happens when you run this code?
+```python
+# %%
+import pandas as pd 
+import altair as alt
+import numpy as np
+
+url = 'https://github.com/fivethirtyeight/data/raw/master/star-wars-survey/StarWars.csv'
+
+dat = pd.read_csv(url)
+
+```
+<br>
+
+
 ### What do the data look like?
 
 **Take the time to understand how the current data is organized.**
@@ -100,21 +117,6 @@ Here is how to read this graph:
 <br>
 ---------------------------------->
 
-## Load the Star Wars data
-
-### What happen when you run this code?
-```python
-# %%
-import pandas as pd 
-import altair as alt
-import numpy as np
-
-url = 'https://github.com/fivethirtyeight/data/raw/master/star-wars-survey/StarWars.csv'
-
-dat = pd.read_csv(url)
-
-```
-<br>
 
 ### What are codecs and encodings?
 
