@@ -25,7 +25,6 @@ keywords: [""]
 
 ## Load the Star Wars data
 
-### What happens when you run this code?
 ```python
 # %%
 import pandas as pd 
@@ -39,6 +38,7 @@ dat = pd.read_csv(url)
 ```
 <br>
 
+#### ???
 
 ### What do the data look like?
 
