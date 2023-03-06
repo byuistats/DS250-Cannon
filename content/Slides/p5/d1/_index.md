@@ -16,10 +16,7 @@ keywords: [""]
 1. Project 4 thoughts
     * Feature Importances - Sorted Bar Graph, not unsorted tables
     * Suppress warnings
-    * Some submissions are a single long string, not a rendered document
     * And the winner is...
-2. Midterm class survey
-    * Need more data
 
 
 <br>
