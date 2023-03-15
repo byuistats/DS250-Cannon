@@ -105,7 +105,7 @@ You will need to provide a detailed description of your completed grading elemen
 | __Projects__                              | 34 Points       | 5 points per project      |
 | __Mid-project checkpoints__               | 5 completed     | Full credit               |
 | __Methods & Calculations checkpoints__    | 6 completed     | 100% unlimited attempts   |
-| __DS Community__                          | Complete all    | --                        |
+| __DS Community__                          | Complete 2      | --                        |
 | __Request and review letter__             | submission      | --                        |
 | __Coding challenge__                      | At least 3      | Score is out of 4         |
 
