@@ -12,9 +12,11 @@ keywords: [""]
 
 #### Spiritual Thought
 #### Announcements
-1. The last day of DSS is next Wednesday, Dec 7th at 6:00PM in STC 398
-1. Extra credit for creating and uploading cheat sheet (2 points for projects or checkpoints)
-1. Coding Challenge date?  
+1. Project 5 Comment
+    * Feature Importance and Model discussion
+2. The last day of DSS is next Wednesday, Mar 29th at 6:00PM in STC 394
+3. Extra credit for creating and uploading cheat sheet (2 points for projects or checkpoints)
+4. Coding Challenge date?  
 
 1. The technical aspects of Project 6 will be done mostly in class. Resume prep/MD outside
 
