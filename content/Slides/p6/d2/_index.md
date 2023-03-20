@@ -74,7 +74,9 @@ Then:
 3. Wait a few minutes for authorization
 4. Join our GitHub organization - [byuids-resumes](https://github.com/byuids-resumes).
 
-If you are on a Mac, these links might be helpful:
+<br>
+
+##### If you are on a Mac, you may need:
 
 - [Mac fix with paths](https://modulesunraveled.com/installing-git/updating-git-if-you-have-only-version-comes-xcode-or-command-line-developer-tools)
 - [Download Xcode and update](https://developer.apple.com/xcode/) (10 gig download)
