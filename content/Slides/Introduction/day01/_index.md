@@ -57,9 +57,10 @@ training, but this is universal:  Communicating technical results so that non-te
 
 ## What is a Data Scientist?
 
-![](KLR.png)
+![](KLR2.png)
 ![](ds_4venn.png)
 
+### C+ Talent Stack
 
 ## Class Structure
 <!------------------
