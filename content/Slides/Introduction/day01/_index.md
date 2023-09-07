@@ -60,7 +60,7 @@ training, but this is universal:  Communicating technical results so that non-te
 ![](KLR2.png)
 ![](ds_4venn.png)
 
-### C+ Talent Stack
+## A Data Scientist has a C+ Talent Stack
 
 ## Class Structure
 <!------------------
