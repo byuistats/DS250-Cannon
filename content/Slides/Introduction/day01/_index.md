@@ -45,7 +45,7 @@ training, but this is universal:  Communicating technical results so that non-te
 -------------------->
 
 - Teacher: Paul Cannon
-- TA: ???
+- TA: David Pineda
 
 <br>
 
@@ -57,6 +57,7 @@ training, but this is universal:  Communicating technical results so that non-te
 
 ## What is a Data Scientist?
 
+![](KLR.png)
 ![](ds_4venn.png)
 
 
