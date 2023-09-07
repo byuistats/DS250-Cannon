@@ -3,7 +3,7 @@ title: "Day 2: Commit, push, fork, and merge"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 2
-draft: false
+draft: true
 # search related keywords
 keywords: [""]
 ---
