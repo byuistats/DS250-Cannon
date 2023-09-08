@@ -140,6 +140,11 @@ This is not a "see and repeat" programming class!
     * Be sure to select the *"Add to Path"* option during the install process
     * ![](image.png)
 1. Install the Python packages and VS Code extensions you need (see [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/))
+    * pip install pandas
+    * pip install numpy
+    * pip install jupyter
+    * pip install tabulate
+    * pip install altair
 1. Install Quarto CLI [Quatro Instructions](https://byuistats.github.io/DS250-Cannon/course-materials/quarto-for-data-science/)
 1. Start looking at Project 0
 1. Complete the "Methods Checkpoint"
