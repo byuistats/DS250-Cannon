@@ -51,6 +51,7 @@ training, but this is universal:  Communicating technical results so that non-te
 
 ## Announcements
 
+1. Devotional
 1. [Computing Lab](https://byuidatascience.github.io/lab/)  4:30PM - 6:30PM all weekdays except Wednesday. Saturday from 10AM-12PM
     * Slack channel #tutoring_lab
 1. Data Science Society - Wednesday's at 6PM
