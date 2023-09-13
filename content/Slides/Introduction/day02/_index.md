@@ -3,7 +3,7 @@ title: "Day 2: Project 0"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-17T10:42:26+06:00
 weight: 1
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -69,7 +69,7 @@ Or you can choose to stick with the [Python Interactive window](https://code.vis
 
 #### Quarto
 
-Do all your tinkering in interactive Python or Jupyter notebooks, report finished code, graphs, etc. in Quatro
+Do your tinkering in interactive Python or Jupyter notebooks.  Generate report with finished code, graphs, etc. in Quatro
 
 [Quarto](https://quarto.org/)
 
