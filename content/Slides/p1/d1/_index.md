@@ -12,7 +12,8 @@ keywords: [""]
 
 #### Announcements
 
-The [data science lab](https://byuidatascience.github.io/lab/)
+* Data Science Society Kickoff!  Wednesday at 6 in the STC 394
+* The [data science lab](https://byuidatascience.github.io/lab/)
 
 <br>
 
