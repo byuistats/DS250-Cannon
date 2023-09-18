@@ -18,7 +18,7 @@ Instructor Name:  Paul Cannon
 Email:  cannonp@byui.edu
 Phone: (208) 496-7565
 Student hours:  Ricks 216, TBD
-Calendly:  https://calendly.com/paulccannon
+Calendly:  [https://calendly.com/cannonp](https://calendly.com/cannonp/30min)
 
 ### Overview
 
