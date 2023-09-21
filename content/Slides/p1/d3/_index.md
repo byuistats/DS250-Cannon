@@ -30,6 +30,7 @@ keywords: [""]
 1. Do your work in .py or .ipynb file, write-up in .qmd
 2. Making/submitting a video:  [Loom](https://www.loom.com/)
 3. ~~alt.Save()~~ Quarto
+4. [Graphics for Communication](https://byuidatascience.github.io/python4ds/graphics-for-communication.html)
 
 
 <br>
