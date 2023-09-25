@@ -3,7 +3,7 @@ title: "Day 3: Making your name stand out"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-22T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -20,8 +20,7 @@ keywords: [""]
 
 #### Anouncements
 
-1. Resume Workshop:  5:00-6:00 Tonight (Wed 1/18) STC 375
-2. Always submit a halfway checkpoint even if you're behind!
+1. Always submit a halfway checkpoint even if you're behind!
     * It's the only hard due date
     * Think of it as a check in with "the boss"
 
