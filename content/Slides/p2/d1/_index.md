@@ -36,7 +36,37 @@ keywords: [""]
 <br>
 
 ##### What is JSON?
-
+```JS
+[
+  {
+    "car": "Mazda RX4",
+    "mpg": 21,
+    "cyl": 6,
+    "disp": 160,
+    "hp": 110,
+    "drat": 3.9,
+    "wt": 2.62,
+    "qsec": 16.46,
+    "vs": 0,
+    "am": 1,
+    "gear": 4,
+    "carb": 4
+  },
+  {
+    "car": "Mazda RX4 Wag",
+    "mpg": 21,
+    "cyl": 6,
+    "disp": 160,
+    "hp": 110,
+    "drat": 3.9,
+    "wt": 2.875,
+    "qsec": 17.02,
+    "am": 1,
+    "gear": 4,
+    "carb": 4
+  }
+]
+```
 #### Introduce the data
 
 Load the JSON file and spend a few minutes studying it. Can you learn enough about it to describe the columns and rows?
