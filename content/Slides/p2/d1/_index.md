@@ -57,7 +57,7 @@ Do you notice anything interesting about the flights data?
 
 #### Question Brainstorming
 
-In your group, try to answer the following questions about your assigned "Grand Question":
+In your group, try to answer the following questions about your assigned question:
 
 - What is our goal? 
 - How can we get there?
