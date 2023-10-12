@@ -11,12 +11,11 @@ keywords: [""]
 ## Welcome to class!
 
 ## Spiritual Thought
-  - Silver Rule
-  - Matthew 19:16-22
-  - Camel through the eye of the needle =>  
-    - "with men this is impossible..."
+  - 3 Nephi 12:14 Verily, verily, I say unto you, I give unto you to be the light of this people. 
 
 #### Announcements
+
+- Hackathon Opening Social
 
 <br>
 
