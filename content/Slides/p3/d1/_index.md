@@ -22,7 +22,7 @@ keywords: [""]
   * Technically Proportion of all flights delayed by weather, not the proportion of delayed flights
   * JSON should look like a text example of a record, not a table
 3. Things for next project:
-  * Be sure to give section headers meaningful titles (NOT "Grand Question 1")
+  * Be sure to give section headers meaningful titles (NOT "Question 1")
 
 <br>
 
