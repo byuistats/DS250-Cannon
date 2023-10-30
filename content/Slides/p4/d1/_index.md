@@ -14,7 +14,7 @@ keywords: [""]
 1. Project 3 - Getting pickier about good communication
     * Career batting average
     * Meaningful report name (Drop "Client Report")
-    * Meaningful section headers so the table of contents is useful (don't call them "Grand Questions")
+    * Meaningful section headers so the table of contents is useful (don't call them "Question 1")
     * Don't include "My useless chart" from the template
 2. Coding Challenge - Table
 3. Ask for help!
@@ -110,7 +110,7 @@ Import [dwellings.csv](https://byuistats.github.io/DS250-Cannon/projects/project
 
 {{< faq "Start working on Question 1">}}
 
-The goal of Grand Question 1 is to help us with "feature selection".
+The goal of Question 1 is to help us with "feature selection".
 
 - Remember: Overfitting happens when some boundaries are based on on _distinctions that don't make a difference_.
 - More data does not always lead to better models. ([Occam's Razor](https://www.google.com/search?q=Occam%E2%80%99s+Razor&rlz=1C1GCEJ_enUS882US882&oq=Occam%E2%80%99s+Razor&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8))
