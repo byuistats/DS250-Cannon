@@ -3,7 +3,7 @@ title: "Day 1: Intro to ML"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-01T10:42:26+06:00
 weight: 4
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -24,9 +24,8 @@ keywords: [""]
 
 #### Spiritual Thought
 
-##### What did you learn about the Sermon on the Mount?
-##### What does it mean to be the light of the world? 
-
+##### Genesis 1:1 and Machine Learning
+##### Are facts true?
 <br>
 <br>
 
