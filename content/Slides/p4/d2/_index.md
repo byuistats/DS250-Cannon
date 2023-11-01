@@ -33,6 +33,12 @@ Day 2: Training a Classifier
 <br>
 -->
 
+## Building a Decision Tree
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVR2Way4nwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{< faq "Import packages">}}
+
 ## Splitting the Data
 
 #### 1. Start with packages and data set
