@@ -13,7 +13,7 @@ keywords: [""]
 ## Today:
 
 1. Continue discussion about evaluating models
-2. Try to understand what are models are doing
+2. Try to understand what models are doing
 
 ## Evaluating model performance cont
 
