@@ -99,7 +99,7 @@ You're going to make a lot of bar charts!
 
 <br>
 
-## Getting started on Grand Question 3
+## Getting started on Question 3
 
 ### One-hot encoding
 
