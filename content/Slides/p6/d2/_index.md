@@ -3,7 +3,7 @@ title: "Day 1: Git and Github"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 3
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -14,7 +14,7 @@ keywords: [""]
 #### Announcements
 1. Project 5 Comment
     * Feature Importance and Model discussion
-2. The last day of DSS is next Wednesday, Mar 29th at 6:00PM in STC 394
+2. The last day of DSS is next Wednesday, Dec 6th at 6:00PM in STC 394
 3. Extra credit for creating and uploading cheat sheet (2 points for projects or checkpoints)
 4. Coding Challenge date?  
 
