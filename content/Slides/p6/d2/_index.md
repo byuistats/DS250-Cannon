@@ -69,7 +69,7 @@ More bad news. Do you use GitHub to work with other people or to coordinate your
 Follow steps 1-4 of [this tutorial](https://www.jcchouinard.com/install-git-in-vscode/). 
 
 Then:
-1. Request access tothe BYU-I Resumes page at [Request Access](https://byui-dss.herokuapp.com/)
+1. Request access tothe BYU-I Resumes page at [Request Access](https://posit.byui.edu/github_orgs/)
 2. Respond to the auto-generated email
 3. Wait a few minutes for authorization
 4. Join our GitHub organization - [byuids-resumes](https://github.com/byuids-resumes).
