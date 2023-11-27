@@ -36,7 +36,7 @@ __Information:__ [BYUI Data Science Resumes](https://github.com/byuids-resumes)
 ### Questions and Tasks
 
 1. [Join GitHub](https://github.com/join). Pick a username you would be ok sharing with a potential employer.
-1. __Join the [BYUI Data Science Resumes](https://github.com/byuids-resumes) GitHub organization and use the template repository to make a resume repository  under your own GitHub account. A good name might be “Lastname-Resume”__
+1. __Join the [BYUI Data Science Resumes](https://posit.byui.edu/github_orgs/) GitHub organization and use the template repository to make a resume repository  under your own GitHub account. A good name might be “Lastname-Resume”__
 1. __Clone your repository to your computer and build a first draft of your resume.__
 1. __Push your results to GitHub and have another student fork your repository to make edits.__
 1. __Accept the proposed changes from the student review and finish your final version.__
