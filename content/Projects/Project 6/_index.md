@@ -41,12 +41,14 @@ __Information:__ [BYUI Data Science Resumes](https://github.com/byuids-resumes)
 1. __Include a link to your resume in the "About" page.__
 1. __Submit the live link to your resume's website hosted in Github.__
 <br>
-~~1. __Push your results to GitHub and have another student fork your repository to make edits.__~~
-~~1. __Accept the proposed changes from the student review and finish your final version.__~~
-~~1. __After your resume is complete, make sure your it is forked into [BYU-I Data Science Resumes](https://github.com/byuids-resumes)__~~
+
+<!------------
+1. __Push your results to GitHub and have another student fork your repository to make edits.__
+1. __Accept the proposed changes from the student review and finish your final version.__
+1. __After your resume is complete, make sure your it is forked into [BYU-I Data Science Resumes](https://github.com/byuids-resumes)__
 
 ### Deliverables:
 
 1. _Complete the questions_
 1. _Submit a URL link to your repo within the byuids-resumes group._
-
+-------------->
