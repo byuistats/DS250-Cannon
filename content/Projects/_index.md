@@ -5,6 +5,7 @@ lastmod: 2020-09-15T10:42:26+06:00
 icon: "ti-bar-chart"
 description: "Project details (the work you will do)"
 type: "docs"
+draft: true
 ---
 
 We will be relying on a few resources for this course. You will find the pertinant readings attached to each of the projects.  Those readings will be culled from;
