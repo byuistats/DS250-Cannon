@@ -6,6 +6,7 @@ icon: "ti-blackboard"
 weight: 5
 description: "Additional Readings and Guidance"
 type: "docs"
+draft: true
 ---
 
 We will be relying on a few resources for this course. You will find the pertinant readings attached to each of the projects.  Those readings will be culled from;
