@@ -10,6 +10,8 @@ keywords: [""]
 
 ## Welcome to class!
 
+![](lines_per_hour.png)
+
 #### Spiritual Thought
 
 #### Announcements
