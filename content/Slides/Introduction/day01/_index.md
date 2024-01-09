@@ -141,20 +141,20 @@ This is not a "see and repeat" programming class!
 1. Download [Python](https://www.python.org/downloads/) v [(3.10.8)](https://www.python.org/downloads/release/python-3108/)
     * Be sure to select the *"Add to Path"* option during the install process
     * ![](image.png)
-    * If you're on a __Mac__ be sure to click on *"Install Certificates"* at the end of the install
-1. Install the Python packages and VS Code extensions you need (see [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/))
+    * __Mac Users__ be sure to click on *"Install Certificates"* at the end of the install
+1. Install the Python packages and VS Code extensions you need (see [this page](https://byuistats.github.io/DS250-Course/Setup/python_setup.html))
     * pip install pandas
     * pip install numpy
     * pip install jupyter
     * pip install tabulate
     * pip install altair
-1. Install Quarto CLI [Quatro Instructions](https://byuistats.github.io/DS250-Cannon/course-materials/quarto-for-data-science/)
+1. Install Quarto CLI [Quatro Instructions](https://byuistats.github.io/DS250-Course/Setup/quarto_setup.html)
 1. Start looking at Project 0
 1. Complete the "Methods Checkpoint"
 
 #### Installing Packages and Extensions
 
-Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/).
+Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Course/Setup/python_setup.html).
 
 The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altair`, `numpy`, and `jupyter`.
 
