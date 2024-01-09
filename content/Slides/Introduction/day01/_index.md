@@ -141,6 +141,7 @@ This is not a "see and repeat" programming class!
 1. Download [Python](https://www.python.org/downloads/) v [(3.10.8)](https://www.python.org/downloads/release/python-3108/)
     * Be sure to select the *"Add to Path"* option during the install process
     * ![](image.png)
+    * If you're on a __Mac__ be sure to click on *"Install Certificates"* at the end of the install
 1. Install the Python packages and VS Code extensions you need (see [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/))
     * pip install pandas
     * pip install numpy
