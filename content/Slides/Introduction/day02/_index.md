@@ -19,6 +19,13 @@ keywords: [""]
 1. Data Science Society - Wednesday's at 6PM, STC 394
 1. Math Department Opening Social - Thursday 11:30 RKS 229
 
+#### Spiritual Thought Question
+
+* How is 1 Nephi like Genesis?
+* "In the beginning, God created the heaven and the earth."
+
+
+
 #### Syllabus Questions?
 
 - A note about readings...
