@@ -3,13 +3,21 @@ title: "Day 2: Project 0"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-09-17T10:42:26+06:00
 weight: 1
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
 
 <!---------- note: modified for a one-day first week -------->
 <!---------- scroll to bottom for original 2-day second day slides ------>
+
+# Announcements
+
+1. Devotional
+1. [Computing Lab](https://byuidatascience.github.io/lab/)  4:30PM - 6:30PM all weekdays except Wednesday. Saturday from 10AM-12PM
+    * Slack channel #tutoring_lab
+1. Data Science Society - Wednesday's at 6PM, STC 394
+1. Math Department Opening Social - Thursday 11:30 RKS 229
 
 #### Syllabus Questions?
 
