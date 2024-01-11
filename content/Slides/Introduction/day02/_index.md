@@ -44,9 +44,9 @@ All the answers will be in the assigned reading or in these slides.
 
 #### Installing Packages and Extensions
 
-Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Cannon/course-materials/python-for-data-science/).
+Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Course/Setup/python_setup.html).
 
-The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altair`, `numpy`, `tabulate`, and `jupyter`.
+The readings mention a lot of different packages. For Project 0, you need to install at least `jupyter`, `pandas`, `plotly.express`, `numpy`, and `tabulate`.
 
 The readings will also mention two VS Code extensions you need to install.
 
@@ -60,6 +60,7 @@ Or you can choose to stick with the [Python Interactive window](https://code.vis
 
 - Technical documentation
 - Google searches
+- ChatGPT
 - Asking for help on Slack
 - Don't forget the [data science lab](https://byuidatascience.github.io/lab.html)! (Starts next week.)
 - Question that cannot be answered by the textbook and documentation? Google it.
