@@ -74,7 +74,7 @@ Or you can choose to stick with the [Python Interactive window](https://code.vis
 - Used widely among programmers for clean documentation 
 - Used widely by Data Scientists to publish results and communicate with stakeholders
 
-[Here's a good summary](https://byuistats.github.io/DS250-Cannon/course-materials/markdown/)
+[Here's a good summary](https://www.markdownguide.org/cheat-sheet/)
 
 #### Quarto
 
