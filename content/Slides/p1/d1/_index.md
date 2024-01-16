@@ -94,10 +94,10 @@ __Group 2__
 
 {{< faq "What is method chaining?" >}}
 
-Pandas and Altiar are built to allow for method chaining. Here is a great resource on how to use method chaining: [How to write neat pandas code](https://pandasninja.com/2019/04/how-to-write-neat-pandas-code/). 
+Pandas is built to allow for method chaining. Here is a great resource on how to use method chaining: [How to write neat pandas code](https://pandasninja.com/2019/04/how-to-write-neat-pandas-code/). 
 
 
-- Altair creates a chart object
+- plotly.express creates a chart object
 - pandas creates a DataFrame object
 - We usually include `()` around our entire method so we can show it in steps.
 
@@ -160,7 +160,7 @@ Read in the data.
 #%%
 # load packages
 import pandas as pd
-import altair as alt
+import plotly.express as px
 
 #%%
 # load data
