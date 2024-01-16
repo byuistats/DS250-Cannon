@@ -149,9 +149,9 @@ my_data.describe()
 __I would do this process for every project.__
 
 - **names.py:** Every file starts with the same cells 1) import packages, 2) load data.
-- **names.md:** Let's start with the [course template](https://byuistats.github.io/DS250-Course/template/ds250_project_template_clean.qmd)
-- **notes.md:** Keep project noteson the readings and things you learn.
-- **my_cheat_sheet.md:** Update your own cheat sheet
+- **names.qmd:** Let's start with the [course template](https://byuistats.github.io/DS250-Course/template/ds250_project_template_clean.qmd)
+- **notes.qmd:** Keep project noteson the readings and things you learn.
+- **my_cheat_sheet.qmd:** Update your own cheat sheet
 
 
 Read in the data.
