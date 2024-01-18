@@ -153,7 +153,7 @@ pd.unique(dat.query('name == "John"').year).size
 - [The query method](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#the-query-method)
 
 {{</ faq >}}
------------------------------------->
+
 
 ## Getting started with Altair
 
@@ -170,7 +170,7 @@ pd.unique(dat.query('name == "John"').year).size
 > - [Technical Paper](https://www.domoritz.de/papers/2017-VegaLite-InfoVis.pdf)
 > - [Website](https://vega.github.io/vega-lite/)
 > - [Endorsment](https://medium.com/@robin.linacre/why-im-backing-vega-lite-as-our-default-tool-for-data-visualisation-51c20970df39)
-
+------------------------------------>
 #### Grand Grand Question 1
 
 What does a chart need to look like to answer Question 1?
