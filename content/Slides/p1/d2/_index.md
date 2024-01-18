@@ -190,6 +190,7 @@ What data do we need to build that chart?
 <br>
 
 ## Extra Practice
+<!----------------------------------
 
 {{< faq "Altair (and Vega and Vega-Lite and D3!)" >}}
 
@@ -254,7 +255,7 @@ Additional references:
 {{</ faq >}}
 
 
-
+------------------------------------>
 
 <!--------------------
 
