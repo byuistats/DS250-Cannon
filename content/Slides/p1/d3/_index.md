@@ -30,7 +30,10 @@ keywords: [""]
 2. Making/submitting a video:  [Loom](https://www.loom.com/)
 3. ~~alt.Save()~~ Quarto
 4. [Graphics for Communication](https://byuidatascience.github.io/python4ds/graphics-for-communication.html)
-5. [Useful Altair Guide](https://altair-viz.github.io/user_guide/customization.html)
+5. [Plotly.Express Resources](https://plotly.com/python/plotly-express/)
+<!--------------------
+6. [Useful Altair Guide](https://altair-viz.github.io/user_guide/customization.html)
+--------------------------------->
 
 
 <br>
