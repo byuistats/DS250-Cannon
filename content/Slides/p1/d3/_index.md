@@ -60,15 +60,6 @@ names.describe()
 
 **What types of charts are there?**
 
-```python
-alt.Chart()
-   .mark_*()
-   .encode()
-
-# alt.Chart().encode()
-   
-```
-
 <br>
 
 **What data do you need to make that chart?**
@@ -85,6 +76,7 @@ kobe2 = names.query("name == 'Kobe'").filter(items=["name", "year", "Total"])
 
 
 <br>
+<!--------------------
 
 {{< faq "Work with your partner to create a line chart that includes both of your names?">}}
 
@@ -112,7 +104,6 @@ Remember this advice [from Edward Tufte](https://medium.com/@AnyChart/advices-by
 > To be truthful and revealing, data graphics must bear on the question at the heart of quantitative thinking: "Compared to what?" The emaciated, data-thin design should always provoke suspicion, for graphics often lie by omission, leaving out data sufficient for comparisons.
 
 
-<!--------------------
 {{< faq "What are some charts types we could use to answer this question?">}}
 
 __There is a clear first choice, but I think there are a few other choices that could provide insight.__
