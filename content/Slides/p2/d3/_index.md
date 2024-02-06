@@ -12,6 +12,8 @@ keywords: [""]
 
 #### Announcements
 
+![The Way](content/Slides/p2)
+
 <br>
 
 ## Questions 1 and 2
