@@ -12,7 +12,7 @@ keywords: [""]
 
 #### Announcements
 
-![The Way](content/Slides/p2)
+![The Way](DS250-Cannon/content/Slides/p2)
 
 <br>
 
