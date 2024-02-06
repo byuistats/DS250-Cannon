@@ -12,7 +12,7 @@ keywords: [""]
 
 #### Announcements
 
-![The Way](DS250-Cannon/content/Slides/p2)
+![The Way](Yin_and_Yang_symbol.png)
 
 <br>
 
