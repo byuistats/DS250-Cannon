@@ -12,7 +12,10 @@ keywords: [""]
 
 #### Announcements
 
+<!---
 ![The Way](Yin_and_Yang_symbol.png)
+--->
+<img src="Yin_and_Yang_symbol.png" width="200">
 
 <br>
 
