@@ -15,7 +15,7 @@ keywords: [""]
 <!---
 ![The Way](Yin_and_Yang_symbol.png)
 --->
-<img src="lehis_dream_steven_neal.jpeg" width="200">
+<img src="lehis_dream_steven_neal.jpeg" width="500">
 <br>
 <img src="Yin_and_Yang_symbol.png" width="200">
 
