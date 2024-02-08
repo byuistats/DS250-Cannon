@@ -3,7 +3,7 @@ title: "Day 4: Exporting JSON"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-12T10:42:26+06:00
 weight: 1
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -11,7 +11,7 @@ keywords: [""]
 ## Welcome to class!
 
 ## Spiritual Thought
-  - 3 Nephi 12:14 Verily, verily, I say unto you, I give unto you to be the light of this people. 
+  - 
 
 #### Announcements
 
