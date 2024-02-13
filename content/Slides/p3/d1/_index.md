@@ -23,6 +23,7 @@ keywords: [""]
   * JSON should look like a text example of a record, not a table
 3. Things for next project:
   * Be sure to give section headers meaningful titles (NOT "Question 1")
+  * Drop "my useless chart" from your graphs
 
 <br>
 
