@@ -119,7 +119,7 @@ Do we understand the questions being asked in Project 3?
 Let's start exploring the baseball data!
 
 - You'll need to download the [SQLite Databse](https://byuistats.github.io/CSE250-Course/data/lahmansbaseballdb.sqlite)
-- And review the [data dictionary](https://www.seanlahman.com/files/database/readme2017.txt)
+- And review the [data dictionary](https://cran.r-project.org/web/packages/Lahman/Lahman.pdf)
 
 ```python
 import pandas as pd
