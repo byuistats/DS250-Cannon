@@ -16,7 +16,6 @@ keywords: [""]
     * Meaningful report name (Drop "Client Report")
     * Meaningful section headers so the table of contents is useful (don't call them "Question 1")
     * Don't include "My useless chart" from the template
-2. Coding Challenge - Table
 3. Ask for help!
     * Computing lab
     * Computing lab Slack channel (search)
