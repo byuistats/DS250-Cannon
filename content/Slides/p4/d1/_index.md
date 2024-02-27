@@ -129,7 +129,7 @@ Common questions:
 You may also save data to a local filesystem and reference the data by file path. Altair has a JSON data transformer that will do this transparently when enabled:
 
 ```python
-alt.data_transformers.disable_max_rows()
+# Try doing data exploration with:
 subset_data = denver.sample(n = 4999)
 ```
 
