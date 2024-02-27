@@ -92,20 +92,6 @@ Import [dwellings.csv](https://byuistats.github.io/DS250-Cannon/projects/project
 
 ## Before Next Class
 
-{{< faq "Do the project readings">}}
-
-[**Machine Learning Introduction**](https://byuistats.github.io/CSE250-Larson/course-materials/machine-learning/)
-
-- Step-by-step guide (mostly) for training a GaussianNB classifier. (The steps will be the same for any algorithm you use.) 
-
-[**Visual Introduction to Machine Learning**](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-1. Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. You can use it to make predictions.
-2. One method for making predictions is called a decision trees, which uses a series of if-then statements to identify boundaries and define patterns in the data.
-3. Overfitting happens when some boundaries are based on distinctions that don't make a difference. You can see if a model overfits by having test data flow through the model.
-
-{{</ faq >}}
-
 
 {{< faq "Start working on Question 1">}}
 
@@ -121,6 +107,23 @@ Common questions:
 
 {{</ faq >}}
 
+<!---------------------------
+
+{{< faq "Do the project readings">}}
+
+[**Machine Learning Introduction**](https://byuistats.github.io/CSE250-Larson/course-materials/machine-learning/)
+
+- Step-by-step guide (mostly) for training a GaussianNB classifier. (The steps will be the same for any algorithm you use.) 
+
+[**Visual Introduction to Machine Learning**](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+1. Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. You can use it to make predictions.
+2. One method for making predictions is called a decision trees, which uses a series of if-then statements to identify boundaries and define patterns in the data.
+3. Overfitting happens when some boundaries are based on distinctions that don't make a difference. You can see if a model overfits by having test data flow through the model.
+
+{{</ faq >}}
+
+
 
 {{< faq "What is the 5000 rows error with Altair?">}}
 
@@ -134,6 +137,8 @@ subset_data = denver.sample(n = 4999)
 ```
 
 {{</ faq >}}
+
+---------------------->
 
 {{< faq "scikit-learn resources">}}
 
