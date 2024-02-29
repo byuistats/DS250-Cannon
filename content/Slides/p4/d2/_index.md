@@ -14,7 +14,13 @@ Day 2: Training a Classifier
 
 ## Welcome to class!
 
+![alt text](tropical-year-illustration.png)
+
+[Shire Reckoning](https://shire-reckoning.com/calendar.html)
+
 #### Announcements
+1. Coding Challenge Practice - Thursday, March 7
+
 #### Spiritual thought
 
 ##### Are facts true?  
@@ -127,17 +133,20 @@ y = dwellings_ml[#what variable is the "target"?]
 #### Decision Tree Example
 
 ```python
-# create the model
-classifier = DecisionTreeClassifier()
 
-# train the model
-classifier.fit(x_train, y_train)
+#%%
+# Create a decision tree
+classifier_DT = DecisionTreeClassifier(max_depth = 4)
 
-# make predictions
-y_predictions = classifier.predict(x_test)
+# Fit the decision tree
+classifier_DT.fit(x_train, y_train)
 
-# test how accurate predictions are
-metrics.accuracy_score(y_test, y_predictions)
+# Test the decision tree (make predictions)
+y_predicted_DT = classifier_DT.predict(x_test)
+
+# Evaluate the decision tree
+print("Accuracy:", metrics.accuracy_score(y_test, y_predicted_DT))
+
 ```
 
 #### How to Improve Accuracy
