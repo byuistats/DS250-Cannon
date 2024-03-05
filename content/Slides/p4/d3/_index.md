@@ -3,7 +3,7 @@ title: "Day 3: Training a Classifier, Part 2"
 date: 2020-05-01T11:02:05+06:00
 lastmod: 2020-10-01T10:42:26+06:00
 weight: 2
-draft: true
+draft: false
 # search related keywords
 keywords: [""]
 ---
@@ -11,9 +11,10 @@ keywords: [""]
 ## Welcome to class!
 
 #### Spiritual Thought
+* Isaiah 3 and the One Ring
 
 #### Announcements
-1. Coding Challenge code posted
+1. Coding Challenge Thursday
 
 
 <br>
