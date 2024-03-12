@@ -16,9 +16,9 @@ keywords: [""]
 
 Next Thursday, 3/14, at 11:30 in RKS 229, John Stevens, Chair of the Department of Mathematics and Statistics at Utah State University, will speak on “Graduate School: What/Why/How, including at USU”. 
 
-After that (from 12:45 to 1:45), Dr. Stevens is providing a free catered lunch in the Manwaring Center for interested students. There is room for 15 students who are interested in learning more about a graduate degree in mathematics or statistics at USU. If you can come to lunch, please sign up here: [](https://www.signupgenius.com/go/10C0D4AA9AF2CA2FCC34-48316304-lunch#/)  (There is no cost for the lunch unless you are unable to attend and don't let us know at least 5 hours in advance, in which case your BYU-I account will be billed for $17.)
+After that (from 12:45 to 1:45), Dr. Stevens is providing a free catered lunch in the Manwaring Center for interested students. There is room for 15 students who are interested in learning more about a graduate degree in mathematics or statistics at USU. If you can come to lunch, please sign up here: [Here](https://www.signupgenius.com/go/10C0D4AA9AF2CA2FCC34-48316304-lunch#/)  (There is no cost for the lunch unless you are unable to attend and don't let us know at least 5 hours in advance, in which case your BYU-I account will be billed for $17.)
 
-Dr. Stevens has reserved some time between 2:00 and 3:00 to meet one-on-one with potential graduate students and talk about mathematics and statistics at USU. It would be a great time to meet with him, talk about the courses you’ve had and plan to take, and get tips on getting into graduate school. If you would like 10 minutes to chat with him, sign up here: [](https://www.signupgenius.com/go/10C0D4AA9AF2CA2FCC34-48316568-10minutes#/)
+Dr. Stevens has reserved some time between 2:00 and 3:00 to meet one-on-one with potential graduate students and talk about mathematics and statistics at USU. It would be a great time to meet with him, talk about the courses you’ve had and plan to take, and get tips on getting into graduate school. If you would like 10 minutes to chat with him, sign up here: [Here](https://www.signupgenius.com/go/10C0D4AA9AF2CA2FCC34-48316568-10minutes#/)
 
 
 1. Project 4 thoughts
