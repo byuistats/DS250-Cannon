@@ -16,7 +16,7 @@ keywords: [""]
 
 ## The `.str` functions in pandas
 
-> - `.str.strip`: [Strip white space](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.strip.html)
+> - `.str.strip`: [Strip white space and border characters](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.strip.html)
 > - `.str.replace`: [replace one string of characters with another.](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.replace.html)
 > - `.str.split`: [Separate a character string into two values.](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.split.html)
 > - `.str.join`: [Join two lists together](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.join.html#pandas.Series.str.join)
