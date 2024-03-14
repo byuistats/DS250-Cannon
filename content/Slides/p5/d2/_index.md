@@ -160,5 +160,5 @@ print(full_column_names)
 
 You're going to make a lot of bar charts!
 
-- [Simple bar chart](https://altair-viz.github.io/gallery/simple_bar_chart.html) tutorial.
-- Make Altair do the counting for you! Tutorials [here](https://altair-viz.github.io/user_guide/transform/aggregate.html) and [here](https://stackoverflow.com/questions/62405935/altair-pandas-value-counts-horizontal-bar-chart).
+- [Simple bar chart](https://plotly.com/python/bar-charts/) tutorial.
+
