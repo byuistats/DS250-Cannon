@@ -11,8 +11,12 @@ keywords: [""]
 ## Welcome to class!
 
 #### Announcements
+
+* Practice Coding Challenge quesitons
+
 #### Spiritual Thought
 
+* Lotus eaters
 
 ## Let's validate some data!
 
