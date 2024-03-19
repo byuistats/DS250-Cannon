@@ -24,10 +24,7 @@ Pick something from [the Star Wars article](https://fivethirtyeight.com/features
 
 
 <!--------------------------------------
-These videos (about 13 minutes each) should help answer your questions with Grand Question 1.
-
-- Video: [Renaming columns](https://www.loom.com/share/4408110072d040e592891993bc8c9731)
-- Video: [Summarizing data for Altair bar charts](https://www.loom.com/share/db922f92304b494aa43330a234ecf8ff)
+- [Simple bar chart](https://plotly.com/python/bar-charts/) tutorial.
 
 And this code will help you get the columns renamed:
 
@@ -98,8 +95,7 @@ starwars.head()
 
 You're going to make a lot of bar charts!
 
-- [Simple bar chart](https://altair-viz.github.io/gallery/simple_bar_chart.html) tutorial.
-- Make Altair do the counting for you! Tutorials [here](https://altair-viz.github.io/user_guide/transform/aggregate.html) and [here](https://stackoverflow.com/questions/62405935/altair-pandas-value-counts-horizontal-bar-chart).
+- [Simple bar chart](https://plotly.com/python/bar-charts/) tutorial.
 
 <br>
 
